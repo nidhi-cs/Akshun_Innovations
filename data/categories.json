@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cat-001",
+    "name": "IoT & Embedded Systems",
+    "shortLabel": "IoT & Embedded",
+    "slug": "iot-embedded",
+    "description": "Connected embedded systems, sensor networks and practical IoT learning equipment.",
+    "icon": "Cpu",
+    "order": 1
+  },
+  {
+    "id": "cat-002",
+    "name": "PLC & Automation",
+    "shortLabel": "PLC & Automation",
+    "slug": "plc-automation",
+    "description": "Programmable control, process automation and industrial training systems.",
+    "icon": "Settings2",
+    "order": 2
+  },
+  {
+    "id": "cat-003",
+    "name": "Electrical Lab Equipment",
+    "shortLabel": "Electrical",
+    "slug": "electrical",
+    "description": "Electrical machines, drives, protection and measurement laboratory equipment.",
+    "icon": "Zap",
+    "order": 3
+  },
+  {
+    "id": "cat-004",
+    "name": "Electronics Lab Equipment",
+    "shortLabel": "Electronics",
+    "slug": "electronics",
+    "description": "Analogue, digital, communication and instrumentation laboratory equipment.",
+    "icon": "CircuitBoard",
+    "order": 4
+  },
+  {
+    "id": "cat-005",
+    "name": "Physics Lab Equipment",
+    "shortLabel": "Physics",
+    "slug": "physics",
+    "description": "Practical apparatus for foundational and advanced physics experiments.",
+    "icon": "Atom",
+    "order": 5
+  },
+  {
+    "id": "cat-006",
+    "name": "Mechanical Lab Equipment",
+    "shortLabel": "Mechanical",
+    "slug": "mechanical",
+    "description": "Thermal, materials, engine and refrigeration laboratory equipment.",
+    "icon": "Cog",
+    "order": 6
+  },
+  {
+    "id": "cat-007",
+    "name": "EV & Renewable Energy",
+    "shortLabel": "EV & Renewable",
+    "slug": "ev-renewable",
+    "description": "Electric mobility, energy storage and renewable energy learning equipment.",
+    "icon": "BatteryCharging",
+    "order": 7
+  },
+  {
+    "id": "cat-008",
+    "name": "Test & Measuring Instruments",
+    "shortLabel": "Test & Measuring",
+    "slug": "test-measuring",
+    "description": "Bench instruments for regulated power, signals and laboratory measurement.",
+    "icon": "Gauge",
+    "order": 8
+  },
+  {
+    "id": "cat-009",
+    "name": "Lab Furniture & Workbenches",
+    "shortLabel": "Lab Furniture",
+    "slug": "lab-furniture",
+    "description": "Practical, organised workstations for technical learning environments.",
+    "icon": "Table2",
+    "order": 9
+  },
+  {
+    "id": "cat-010",
+    "name": "Civil & Chemical Lab Equipment",
+    "shortLabel": "Civil & Chemical",
+    "slug": "civil-chemical",
+    "description": "General civil and chemical engineering teaching and testing equipment.",
+    "icon": "FlaskConical",
+    "order": 10
+  }
+]

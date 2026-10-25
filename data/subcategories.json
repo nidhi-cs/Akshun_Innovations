@@ -1,0 +1,298 @@
+[
+  {
+    "id": "subcat-001",
+    "name": "General",
+    "slug": "electrical-engineering-general",
+    "categorySlug": "electrical",
+    "description": "Core electrical engineering trainers and teaching equipment.",
+    "order": 1
+  },
+  {
+    "id": "subcat-002",
+    "name": "Power Electronics & Drives",
+    "slug": "power-electronics-drives-lab",
+    "categorySlug": "electrical",
+    "description": "Converters, inverters and drive control learning systems.",
+    "order": 2
+  },
+  {
+    "id": "subcat-003",
+    "name": "Power System & Protection",
+    "slug": "power-system-protection-lab",
+    "categorySlug": "electrical",
+    "description": "Power system studies, relays and protection trainers.",
+    "order": 3
+  },
+  {
+    "id": "subcat-004",
+    "name": "Electrical Bridges",
+    "slug": "electrical-bridges",
+    "categorySlug": "electrical",
+    "description": "Bridge measurement trainers for electrical parameter studies.",
+    "order": 4
+  },
+  {
+    "id": "subcat-005",
+    "name": "Cut Section Motors",
+    "slug": "cut-section-motors",
+    "categorySlug": "electrical",
+    "description": "Visible machine models for construction and operation teaching.",
+    "order": 5
+  },
+  {
+    "id": "subcat-006",
+    "name": "Motor-Generators",
+    "slug": "motor-generators",
+    "categorySlug": "electrical",
+    "description": "Motor-generator sets for machine characteristics and conversion studies.",
+    "order": 6
+  },
+  {
+    "id": "subcat-007",
+    "name": "Basic Electronics",
+    "slug": "basic-electronics-lab",
+    "categorySlug": "electronics",
+    "description": "Foundational electronic circuits and component experiments.",
+    "order": 1
+  },
+  {
+    "id": "subcat-008",
+    "name": "Analog Electronics",
+    "slug": "analog-electronics",
+    "categorySlug": "electronics",
+    "description": "Analogue circuit, transistor and signal learning equipment.",
+    "order": 2
+  },
+  {
+    "id": "subcat-009",
+    "name": "Digital Electronics",
+    "slug": "digital-electronics",
+    "categorySlug": "electronics",
+    "description": "Digital logic, timing and sequential circuit trainers.",
+    "order": 3
+  },
+  {
+    "id": "subcat-010",
+    "name": "Op-Amp Trainers",
+    "slug": "operational-amplifier-trainers",
+    "categorySlug": "electronics",
+    "description": "Practical op-amp configuration and measurement trainers.",
+    "order": 4
+  },
+  {
+    "id": "subcat-011",
+    "name": "Amplifiers & Oscillators",
+    "slug": "amplifiers-oscillators",
+    "categorySlug": "electronics",
+    "description": "Amplifier response and oscillator circuit demonstration systems.",
+    "order": 5
+  },
+  {
+    "id": "subcat-012",
+    "name": "Breadboard Trainers",
+    "slug": "breadboard-trainers",
+    "categorySlug": "electronics",
+    "description": "Reusable trainer platforms for circuit prototyping and testing.",
+    "order": 6
+  },
+  {
+    "id": "subcat-013",
+    "name": "Communication",
+    "slug": "communication-lab",
+    "categorySlug": "electronics",
+    "description": "Communication fundamentals, modulation and demodulation trainers.",
+    "order": 7
+  },
+  {
+    "id": "subcat-014",
+    "name": "Advanced Communication",
+    "slug": "advanced-communication",
+    "categorySlug": "electronics",
+    "description": "Advanced communication and signal processing learning systems.",
+    "order": 8
+  },
+  {
+    "id": "subcat-015",
+    "name": "Network Systems",
+    "slug": "network-systems-lab",
+    "categorySlug": "electronics",
+    "description": "Networking fundamentals and data communication lab equipment.",
+    "order": 9
+  },
+  {
+    "id": "subcat-016",
+    "name": "Fiber Optics",
+    "slug": "fiber-optics-trainers",
+    "categorySlug": "electronics",
+    "description": "Optical transmission, reception and link measurement trainers.",
+    "order": 10
+  },
+  {
+    "id": "subcat-017",
+    "name": "Microwave",
+    "slug": "microwave-lab",
+    "categorySlug": "electronics",
+    "description": "Microwave propagation, components and measurement trainers.",
+    "order": 11
+  },
+  {
+    "id": "subcat-018",
+    "name": "Microprocessor & Microcontroller",
+    "slug": "microprocessor-microcontroller",
+    "categorySlug": "electronics",
+    "description": "Embedded processor programming and interfacing equipment.",
+    "order": 12
+  },
+  {
+    "id": "subcat-019",
+    "name": "Instrumentation",
+    "slug": "instrumentation-lab",
+    "categorySlug": "electronics",
+    "description": "Measurement, transducer and industrial instrumentation trainers.",
+    "order": 13
+  },
+  {
+    "id": "subcat-020",
+    "name": "Control Lab",
+    "slug": "control-lab",
+    "categorySlug": "electronics",
+    "description": "Feedback, process response and control system trainers.",
+    "order": 14
+  },
+  {
+    "id": "subcat-021",
+    "name": "Consumer Electronics",
+    "slug": "consumer-electronics",
+    "categorySlug": "electronics",
+    "description": "Teaching systems for everyday electronic equipment and servicing.",
+    "order": 15
+  },
+  {
+    "id": "subcat-022",
+    "name": "IoT Trainers",
+    "slug": "iot-trainers",
+    "categorySlug": "electronics",
+    "description": "Connected sensing, embedded networking and IoT application trainers.",
+    "order": 16
+  },
+  {
+    "id": "subcat-023",
+    "name": "Green & Renewable Energy",
+    "slug": "green-renewable-energy",
+    "categorySlug": "electronics",
+    "description": "Low-voltage renewable energy generation and monitoring trainers.",
+    "order": 17
+  },
+  {
+    "id": "subcat-024",
+    "name": "Basic Physics",
+    "slug": "basic-physics",
+    "categorySlug": "physics",
+    "description": "Core mechanics, optics, heat and electricity teaching apparatus.",
+    "order": 1
+  },
+  {
+    "id": "subcat-025",
+    "name": "Advanced Physics",
+    "slug": "advanced-physics",
+    "categorySlug": "physics",
+    "description": "Advanced physics experiments for higher education laboratories.",
+    "order": 2
+  },
+  {
+    "id": "subcat-026",
+    "name": "Process Control Trainers",
+    "slug": "process-control-trainers",
+    "categorySlug": "mechanical",
+    "description": "Temperature, flow, level and process control training systems.",
+    "order": 1
+  },
+  {
+    "id": "subcat-027",
+    "name": "Heat Transfer",
+    "slug": "heat-transfer-lab",
+    "categorySlug": "mechanical",
+    "description": "Bench equipment for conduction, convection and radiation studies.",
+    "order": 2
+  },
+  {
+    "id": "subcat-028",
+    "name": "Hardness Testing",
+    "slug": "hardness-testing-machines",
+    "categorySlug": "mechanical",
+    "description": "Material hardness measurement and comparison equipment.",
+    "order": 3
+  },
+  {
+    "id": "subcat-029",
+    "name": "I.C. Engines",
+    "slug": "ic-engines",
+    "categorySlug": "mechanical",
+    "description": "Engine cut sections and test systems for combustion studies.",
+    "order": 4
+  },
+  {
+    "id": "subcat-030",
+    "name": "RAC Lab",
+    "slug": "rac-lab",
+    "categorySlug": "mechanical",
+    "description": "Refrigeration and air-conditioning training equipment.",
+    "order": 5
+  },
+  {
+    "id": "subcat-031",
+    "name": "PLC Trainers",
+    "slug": "plc-trainers",
+    "categorySlug": "plc-automation",
+    "description": "Programmable control and automation training platforms.",
+    "order": 1
+  },
+  {
+    "id": "subcat-032",
+    "name": "Civil",
+    "slug": "civil-general",
+    "categorySlug": "civil-chemical",
+    "description": "General-purpose civil engineering teaching and testing equipment.",
+    "order": 1
+  },
+  {
+    "id": "subcat-033",
+    "name": "Chemical",
+    "slug": "chemical-general",
+    "categorySlug": "civil-chemical",
+    "description": "General-purpose chemical engineering process equipment.",
+    "order": 1
+  },
+  {
+    "id": "subcat-034",
+    "name": "Power Supplies",
+    "slug": "power-supplies",
+    "categorySlug": "test-measuring",
+    "description": "Regulated bench supplies for electrical and electronics work.",
+    "order": 1
+  },
+  {
+    "id": "subcat-035",
+    "name": "Function Generators & Oscilloscopes",
+    "slug": "function-generators-oscilloscopes",
+    "categorySlug": "test-measuring",
+    "description": "Signal generation and waveform measurement instruments.",
+    "order": 2
+  },
+  {
+    "id": "subcat-036",
+    "name": "Workbenches",
+    "slug": "technical-workbenches",
+    "categorySlug": "lab-furniture",
+    "description": "Technical workstations for organised laboratory activity.",
+    "order": 1
+  },
+  {
+    "id": "subcat-037",
+    "name": "EV Lab",
+    "slug": "ev-lab-equipment",
+    "categorySlug": "ev-renewable",
+    "description": "Electric vehicle systems, battery and motor learning equipment.",
+    "order": 1
+  }
+]
