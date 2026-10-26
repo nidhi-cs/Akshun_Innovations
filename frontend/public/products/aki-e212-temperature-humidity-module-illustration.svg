@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative digital temperature and humidity module</title>
+  <desc id="desc">Conceptual sensor module with temperature and humidity indicators. Not a photograph of AKI-E212.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbfcfd"/>
+      <stop offset="1" stop-color="#e8eff3"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#243746" flood-opacity=".15"/>
+    </filter>
+  </defs>
+  <rect width="960" height="720" rx="36" fill="url(#background)"/>
+  <rect x="58" y="54" width="324" height="44" rx="22" fill="#fff" stroke="#d6e0e8"/>
+  <circle cx="84" cy="76" r="7" fill="#347f91"/>
+  <text x="105" y="82" fill="#3d5262" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">ILLUSTRATIVE CONCEPT</text>
+  <g filter="url(#shadow)">
+    <rect x="115" y="151" width="730" height="420" rx="27" fill="#fff" stroke="#d4dfe4" stroke-width="3"/>
+    <rect x="141" y="177" width="678" height="48" rx="13" fill="#304d60"/>
+    <text x="480" y="208" text-anchor="middle" fill="#f6f9fb" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1">TEMPERATURE &amp; HUMIDITY SENSING</text>
+    <rect x="270" y="285" width="420" height="220" rx="25" fill="#267055" stroke="#185440" stroke-width="8"/>
+    <path d="M305 325h-34v-24m384 24h34v-24M305 465h-34v24m384-24h34v24" fill="none" stroke="#d9a357" stroke-width="9" stroke-linecap="round"/>
+    <rect x="425" y="350" width="110" height="90" rx="15" fill="#dce7e4" stroke="#9fb7b0" stroke-width="5"/>
+    <path d="M480 365v42" stroke="#dc8548" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="480" cy="417" r="15" fill="#dc8548"/>
+    <path d="M458 375h10m-10 15h10m-10 15h10" stroke="#607d78" stroke-width="4" stroke-linecap="round"/>
+    <path d="M365 368c-18 24-26 34-26 47a27 27 0 0 0 54 0c0-13-9-25-28-47z" fill="#6bb9c0"/>
+    <path d="M355 416q11-16 23-1" fill="none" stroke="#f4fbfa" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="600" cy="390" r="40" fill="#e9f0ee" stroke="#87a89c" stroke-width="5"/>
+    <path d="M600 367v23l17 11" fill="none" stroke="#347f91" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="480" y="478" text-anchor="middle" fill="#d9f0e5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">ENVIRONMENTAL SENSOR MODULE</text>
+  </g>
+  <text x="480" y="625" text-anchor="middle" fill="#3d5663" font-family="Arial,sans-serif" font-size="19" font-weight="700">Digital Temperature and Humidity Module</text>
+  <text x="480" y="655" text-anchor="middle" fill="#71838c" font-family="Arial,sans-serif" font-size="14">Illustration only — not an AKSHUNN product photograph</text>
+</svg>

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" fill="none">
+  <defs>
+    <linearGradient id="board" x1="235" y1="138" x2="712" y2="634" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#208A65"/>
+      <stop offset="1" stop-color="#07543F"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#293747"/>
+      <stop offset="1" stop-color="#101A25"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#F4D78D"/>
+      <stop offset="1" stop-color="#BF8B35"/>
+    </linearGradient>
+    <filter id="shadow" x="90" y="58" width="780" height="670" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#D8E5E1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="760" rx="36" fill="#F5F8F7"/>
+  <rect width="960" height="760" rx="36" fill="url(#dots)" opacity=".45"/>
+  <ellipse cx="480" cy="632" rx="310" ry="44" fill="#173C32" opacity=".19" filter="url(#shadow)"/>
+
+  <g transform="rotate(-6 480 370)">
+    <rect x="206" y="112" width="548" height="486" rx="26" fill="url(#board)" stroke="#064A38" stroke-width="8"/>
+    <rect x="222" y="128" width="516" height="454" rx="18" stroke="#6DC49A" stroke-opacity=".5" stroke-width="2"/>
+
+    <g fill="#D9E6DF" stroke="#A9BBB1" stroke-width="3">
+      <circle cx="238" cy="145" r="11"/><circle cx="722" cy="145" r="11"/>
+      <circle cx="238" cy="565" r="11"/><circle cx="722" cy="565" r="11"/>
+    </g>
+    <g fill="#49645A">
+      <circle cx="238" cy="145" r="4"/><circle cx="722" cy="145" r="4"/>
+      <circle cx="238" cy="565" r="4"/><circle cx="722" cy="565" r="4"/>
+    </g>
+
+    <g stroke="#70D4A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+      <path d="M295 230h58v52h64"/><path d="M295 252h35v92h87"/>
+      <path d="M296 370h76v-28h45"/><path d="M295 392h52v71h68"/>
+      <path d="M649 226h-53v56h-72"/><path d="M649 252h-33v91h-92"/>
+      <path d="M648 370h-71v-28h-53"/><path d="M648 397h-54v66h-72"/>
+      <path d="M477 198v-35h-72"/><path d="M498 198v-35h82"/>
+      <path d="M469 498v41h-73"/><path d="M503 498v40h83"/>
+      <path d="M371 310h-43v-27"/><path d="M575 311h39v-28"/>
+    </g>
+    <g fill="#B9E8CE">
+      <circle cx="353" cy="230" r="6"/><circle cx="417" cy="282" r="6"/>
+      <circle cx="417" cy="344" r="6"/><circle cx="415" cy="463" r="6"/>
+      <circle cx="596" cy="226" r="6"/><circle cx="524" cy="282" r="6"/>
+      <circle cx="524" cy="344" r="6"/><circle cx="522" cy="463" r="6"/>
+      <circle cx="405" cy="163" r="6"/><circle cx="580" cy="163" r="6"/>
+      <circle cx="396" cy="539" r="6"/><circle cx="586" cy="538" r="6"/>
+    </g>
+
+    <rect x="411" y="260" width="140" height="130" rx="12" fill="url(#chip)" stroke="#A8B8B1" stroke-width="4"/>
+    <rect x="432" y="282" width="98" height="84" rx="6" fill="#17232C" stroke="#566C66" stroke-width="3"/>
+    <path d="M438 253v-14m20 14v-14m20 14v-14m20 14v-14m20 14v-14m20 14v-14M438 397v14m20-14v14m20-14v14m20-14v14m20-14v14m20-14v14" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M404 278h-14m14 20h-14m14 20h-14m14 20h-14m14 20h-14m154-80h14m-14 20h14m-14 20h14m-14 20h14m-14 20h14" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+    <text x="481" y="320" fill="#E5F4EC" font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">INTERFACE</text>
+    <text x="481" y="343" fill="#91B8A4" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">IC</text>
+
+    <rect x="270" y="200" width="76" height="54" rx="8" fill="#DCE8E1" stroke="#354E43" stroke-width="5"/>
+    <rect x="281" y="210" width="54" height="32" rx="4" fill="#687C73"/>
+    <path d="M288 210v-8m12 8v-8m12 8v-8m12 8v-8m-36 48v8m12-8v8m12-8v8m12-8v8" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+    <text x="308" y="273" fill="#DDF5E8" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">SENSOR I/O</text>
+
+    <rect x="600" y="200" width="76" height="54" rx="8" fill="#DCE8E1" stroke="#354E43" stroke-width="5"/>
+    <rect x="611" y="210" width="54" height="32" rx="4" fill="#687C73"/>
+    <path d="M618 210v-8m12 8v-8m12 8v-8m12 8v-8m-36 48v8m12-8v8m12-8v8m12-8v8" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+    <text x="638" y="273" fill="#DDF5E8" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">SENSOR I/O</text>
+
+    <rect x="270" y="421" width="76" height="54" rx="8" fill="#DCE8E1" stroke="#354E43" stroke-width="5"/>
+    <rect x="281" y="431" width="54" height="32" rx="4" fill="#687C73"/>
+    <path d="M288 431v-8m12 8v-8m12 8v-8m12 8v-8m-36 48v8m12-8v8m12-8v8m12-8v8" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+    <text x="308" y="493" fill="#DDF5E8" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">SIGNAL</text>
+
+    <rect x="600" y="421" width="76" height="54" rx="8" fill="#DCE8E1" stroke="#354E43" stroke-width="5"/>
+    <rect x="611" y="431" width="54" height="32" rx="4" fill="#687C73"/>
+    <path d="M618 431v-8m12 8v-8m12 8v-8m12 8v-8m-36 48v8m12-8v8m12-8v8m12-8v8" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+    <text x="638" y="493" fill="#DDF5E8" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">SIGNAL</text>
+
+    <g>
+      <rect x="443" y="156" width="76" height="48" rx="7" fill="#C7D1CB" stroke="#52675E" stroke-width="4"/>
+      <rect x="452" y="165" width="58" height="30" rx="4" fill="#1B2930"/>
+      <path d="M458 164v-8m12 8v-8m12 8v-8m12 8v-8m12 8v-8" stroke="#D5AA56" stroke-width="4" stroke-linecap="round"/>
+      <rect x="441" y="499" width="80" height="43" rx="6" fill="#DCE5DF" stroke="#556A61" stroke-width="4"/>
+      <path d="M454 499v-8m14 8v-8m14 8v-8m14 8v-8m14 8v-8" stroke="#D5AA56" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <g fill="#E3E8E4" stroke="#6D7F76" stroke-width="3">
+      <rect x="367" y="216" width="22" height="34" rx="4"/><rect x="568" y="216" width="22" height="34" rx="4"/>
+      <rect x="367" y="407" width="22" height="34" rx="4"/><rect x="568" y="407" width="22" height="34" rx="4"/>
+    </g>
+    <g fill="#9CB7A8">
+      <rect x="372" y="222" width="12" height="8" rx="2"/><rect x="573" y="222" width="12" height="8" rx="2"/>
+      <rect x="372" y="413" width="12" height="8" rx="2"/><rect x="573" y="413" width="12" height="8" rx="2"/>
+    </g>
+    <g fill="#F0C85F">
+      <circle cx="385" cy="269" r="7"/><circle cx="575" cy="269" r="7"/>
+      <circle cx="385" cy="389" r="7"/><circle cx="575" cy="389" r="7"/>
+    </g>
+    <g fill="#F8FAF9" stroke="#A9BBB1" stroke-width="3">
+      <rect x="359" y="292" width="30" height="15" rx="3"/><rect x="571" y="292" width="30" height="15" rx="3"/>
+      <rect x="359" y="354" width="30" height="15" rx="3"/><rect x="571" y="354" width="30" height="15" rx="3"/>
+    </g>
+
+    <rect x="430" y="106" width="112" height="26" rx="6" fill="#C6D1CB" stroke="#40564C" stroke-width="4"/>
+    <rect x="458" y="101" width="55" height="35" rx="5" fill="#A9B7B0" stroke="#40564C" stroke-width="4"/>
+    <rect x="449" y="589" width="94" height="24" rx="5" fill="#C6D1CB" stroke="#40564C" stroke-width="4"/>
+    <rect x="472" y="584" width="48" height="34" rx="5" fill="#A9B7B0" stroke="#40564C" stroke-width="4"/>
+
+    <g fill="url(#gold)" stroke="#976D2C" stroke-width="2">
+      <rect x="248" y="292" width="28" height="18" rx="3"/><rect x="248" y="324" width="28" height="18" rx="3"/>
+      <rect x="248" y="356" width="28" height="18" rx="3"/><rect x="248" y="388" width="28" height="18" rx="3"/>
+      <rect x="684" y="292" width="28" height="18" rx="3"/><rect x="684" y="324" width="28" height="18" rx="3"/>
+      <rect x="684" y="356" width="28" height="18" rx="3"/><rect x="684" y="388" width="28" height="18" rx="3"/>
+    </g>
+    <text x="480" y="454" fill="#D5F3E2" fill-opacity=".72" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="middle">ILLUSTRATIVE SENSOR INTERFACE</text>
+  </g>
+
+  <rect x="300" y="675" width="360" height="36" rx="18" fill="#E6EFEB"/>
+  <text x="480" y="698" fill="#456158" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" text-anchor="middle">ILLUSTRATIVE BOARD — NOT PRODUCT PHOTOGRAPH</text>
+</svg>

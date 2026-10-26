@@ -1,9 +1,15 @@
-node_modules/
-.next/
-out/
-.env
-.env.*
-__pycache__/
-venv/
-.venv/
-*.log
+# Root-level local secrets
+/.env
+/.env.*
+
+# Generated project dependencies and build output
+**/node_modules/
+**/.next/
+**/out/
+**/__pycache__/
+**/venv/
+**/.venv/
+**/*.log
+
+# OS metadata
+.DS_Store

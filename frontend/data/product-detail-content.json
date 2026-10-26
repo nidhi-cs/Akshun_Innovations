@@ -1,0 +1,745 @@
+{
+  "AKI-E212": {
+    "images": ["/products/aki-e212-temperature-humidity-module-illustration.svg"],
+    "imageAlt": "Illustrative digital temperature and humidity sensor module; not a photograph of AKI-E212"
+  },
+  "AKI-E220": {
+    "shortDescription": "A laboratory panel for exploring how sensors and actuators connect within automation systems.",
+    "description": "The AKI-E220 Automation Sensor and Actuator Panel provides a learning context for studying the role of sensing and actuation in automated systems. Learners can explore signal flow from an input device through control logic to an output action, subject to the panel's actual configuration.\n\nThe sensor and actuator types, connection terminals, controller compatibility, signal ranges, operating voltage, and included accessories have not been provided. Confirm the panel layout and electrical compatibility in official product documentation before connecting external equipment.",
+    "features": ["Sensor and actuator system concepts", "Automation signal-flow learning", "Input and output connection study", "Control sequence demonstrations", "Supervised laboratory practice"],
+    "specs": [{"label":"General — Model","value":"AKI-E220"},{"label":"General — Product Type","value":"Automation sensor and actuator panel"},{"label":"General — Category","value":"PLC & Automation"},{"label":"Inputs — Sensor types and signal characteristics","value":"Not provided"},{"label":"Outputs — Actuator types and ratings","value":"Not provided"},{"label":"Control — Supported controller and interfaces","value":"Not provided"},{"label":"Electrical — Operating voltage and current","value":"Not provided"},{"label":"Physical — Dimensions and mounting","value":"Not provided"}],
+    "applications": ["Automation laboratory demonstrations", "Sensor and actuator interfacing concepts", "Control-system practical sessions", "Technical and vocational education"],
+    "images": ["/products/aki-e220-automation-sensor-and-actuator-panel-illustration.svg"],
+    "imageAlt": "Illustrative automation panel showing conceptual sensor inputs, controller, and actuator outputs; not a photograph of AKI-E220"
+  },
+  "AKI-E219": {
+    "shortDescription": "A process-control trainer for learning feedback-loop concepts and observing how process variables respond to control actions.",
+    "description": "The AKI-E219 Industrial Control Loop Trainer introduces feedback control and the relationships among a process variable, a controller action, and system response. It supports educational discussion of control-loop behavior and process instrumentation without implying a particular control strategy or process configuration.\n\nThe controlled process, sensor and actuator types, controller model, tuning method, operating range, and included instruments have not been provided. Refer to official product documentation to verify the supplied equipment and available exercises.",
+    "features": ["Feedback control fundamentals", "Process-variable observation concepts", "Controller and process relationship study", "Control response demonstrations", "Instrumentation education"],
+    "specs": [{"label":"General — Model","value":"AKI-E219"},{"label":"General — Product Type","value":"Industrial control loop trainer"},{"label":"General — Category","value":"PLC & Automation"},{"label":"Process — Controlled variable and process configuration","value":"Not provided"},{"label":"Instrumentation — Sensors and actuators","value":"Not provided"},{"label":"Control — Controller type and tuning method","value":"Not provided"},{"label":"Measurement — Operating range and accuracy","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Process-control laboratories", "Feedback-loop education", "Instrumentation training", "Control response demonstrations"],
+    "images": ["/products/aki-e219-industrial-control-loop-trainer-illustration.svg"],
+    "imageAlt": "Illustrative process control loop diagram with conceptual sensor, controller, and process; not a photograph of AKI-E219"
+  },
+  "AKI-E191": {
+    "shortDescription": "A laboratory trainer for learning PLC-based automation principles, input and output relationships, and control logic.",
+    "description": "The AKI-E191 PLC Automation Trainer provides a practical learning context for programmable-logic-controller concepts and automation sequence study. Learners can examine how control logic relates to input conditions and output actions using the trainer's verified configuration.\n\nPLC manufacturer and model, programming environment, I/O count, supported communication interfaces, supplied devices, and operating requirements have not been provided. Confirm compatibility and the actual trainer configuration through official documentation.",
+    "features": ["PLC automation fundamentals", "Control logic concepts", "Input and output relationship study", "Sequence-control demonstrations", "Guided laboratory exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E191"},{"label":"General — Product Type","value":"PLC automation trainer"},{"label":"General — Category","value":"PLC & Automation"},{"label":"Controller — PLC manufacturer and model","value":"Not provided"},{"label":"Programming — Software and languages","value":"Not provided"},{"label":"I/O — Channel count and signal types","value":"Not provided"},{"label":"Communication — Interfaces and protocols","value":"Not provided"},{"label":"Electrical — Power requirements","value":"Not provided"}],
+    "applications": ["PLC and automation laboratories", "Control logic education", "Automation sequence demonstrations", "Technical and vocational training"],
+    "images": ["/products/aki-e191-plc-automation-trainer-illustration.svg"],
+    "imageAlt": "Illustrative PLC automation trainer panel with conceptual input and output indicators; not a photograph of AKI-E191"
+  },
+  "AKI-E218": {
+    "shortDescription": "An educational trainer for exploring process sequences, sensor conditions, output actions, and ladder-logic concepts.",
+    "description": "The AKI-E218 PLC Process Sequence Trainer introduces sequence-based automation and the role of control logic in coordinating process steps. Learners can study how input conditions and output actions may be arranged into a sequence, subject to the trainer's actual equipment and supported configuration.\n\nThe PLC model, software, process layout, sensors, actuators, I/O count, sequence program, and operating ratings have not been provided. Check official documentation before assuming compatibility or supplied components.",
+    "features": ["Process sequence fundamentals", "Control logic and step relationships", "Sensor-condition concepts", "Output action demonstrations", "Supervised automation practice"],
+    "specs": [{"label":"General — Model","value":"AKI-E218"},{"label":"General — Product Type","value":"PLC process sequence trainer"},{"label":"General — Category","value":"PLC & Automation"},{"label":"Controller — PLC model and programming environment","value":"Not provided"},{"label":"Process — Layout and sequence configuration","value":"Not provided"},{"label":"Inputs — Sensors and I/O count","value":"Not provided"},{"label":"Outputs — Actuators and ratings","value":"Not provided"},{"label":"Electrical — Power and safety requirements","value":"Not provided"}],
+    "applications": ["PLC training laboratories", "Process sequence demonstrations", "Ladder-logic education", "Automation practical sessions"],
+    "images": ["/products/aki-e218-plc-process-sequence-trainer-illustration.svg"],
+    "imageAlt": "Illustrative PLC process sequence trainer with conceptual stages and control signals; not a photograph of AKI-E218"
+  },
+  "AKI-E216": {
+    "shortDescription": "A learning module for exploring low-power wireless communication concepts, connected nodes, and telemetry.",
+    "description": "The AKI-E216 Low Power Wireless Module Trainer provides an educational context for studying wireless nodes, power-state concepts, and the exchange of telemetry between connected devices. It can support introductory discussion of wireless system behavior without implying any specific radio technology or network capability.\n\nWireless protocol, frequency band, range, data rate, power consumption, module chipset, antenna, and compatible controllers have not been provided. Verify communication and electrical compatibility in official product documentation before use.",
+    "features": ["Low-power wireless concepts", "Connected-node architecture", "Telemetry exchange demonstrations", "Power-state learning", "Wireless systems education"],
+    "specs": [{"label":"General — Model","value":"AKI-E216"},{"label":"General — Product Type","value":"Low power wireless module trainer"},{"label":"General — Category","value":"IoT & Embedded Systems"},{"label":"Wireless — Protocol and frequency band","value":"Not provided"},{"label":"Communication — Range and data rate","value":"Not provided"},{"label":"Electrical — Operating voltage and power consumption","value":"Not provided"},{"label":"Hardware — Module and antenna details","value":"Not provided"},{"label":"Compatibility — Supported controllers and software","value":"Not provided"}],
+    "applications": ["IoT and embedded systems laboratories", "Wireless communication demonstrations", "Telemetry learning exercises", "Connected-device project exploration"],
+    "images": ["/products/aki-e216-low-power-wireless-module-trainer-illustration.svg"],
+    "imageAlt": "Illustrative low-power wireless node trainer with conceptual radio link; not a photograph of AKI-E216"
+  },
+  "AKI-E213": {
+    "shortDescription": "A sensor module for exploring ultrasonic distance-measurement principles and non-contact sensing concepts.",
+    "description": "The AKI-E213 Ultrasonic Distance Sensor Module introduces ultrasonic sensing as a method for detecting distance without contact. Learners can explore the general relationship between an emitted acoustic pulse, its reflection, and a distance-related measurement in an embedded or automation project.\n\nThe transducer design, measurement range, accuracy, beam characteristics, operating voltage, output interface, timing requirements, and controller compatibility have not been provided. Verify the module's electrical and interface specifications before integrating it with other equipment.",
+    "features": ["Ultrasonic sensing fundamentals", "Non-contact distance measurement concepts", "Echo and measurement principles", "Sensor interfacing education", "Embedded sensing project learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E213"},{"label":"General — Product Type","value":"Ultrasonic distance sensor module"},{"label":"General — Category","value":"IoT & Embedded Systems"},{"label":"Sensing — Measurement range and accuracy","value":"Not provided"},{"label":"Transducer — Frequency and beam characteristics","value":"Not provided"},{"label":"Electrical — Operating voltage and current","value":"Not provided"},{"label":"Interface — Output signals and timing","value":"Not provided"},{"label":"Compatibility — Supported controllers","value":"Not provided"}],
+    "applications": ["Embedded systems laboratories", "Non-contact sensing demonstrations", "Distance measurement experiments", "Automation and IoT prototypes"],
+    "images": ["/products/aki-e213-ultrasonic-distance-sensor-module-illustration.svg"],
+    "imageAlt": "Illustrative ultrasonic distance sensor module with conceptual echo waves; not a photograph of AKI-E213"
+  },
+  "AKI-E101": {
+    "shortDescription": "An educational panel for exploring electrical measurement principles and interpreting common circuit quantities.",
+    "description": "The AKI-E101 Electrical Measurements Training Module introduces the measurement of electrical quantities such as voltage, current, and resistance. Learners can study measuring-instrument concepts, circuit connections, and how readings are interpreted in an electrical laboratory.\n\nThe instruments supplied, measurement ranges, accuracy, circuit configuration, and operating requirements have not been provided. Confirm the equipment configuration and safe operating instructions in official product documentation.",
+    "features": ["Electrical measurement fundamentals", "Voltage and current measurement concepts", "Resistance measurement principles", "Introduction to measuring instruments", "Circuit connection and reading interpretation", "Electrical laboratory learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E101"},{"label":"General — Product Type","value":"Electrical measurements training module"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Measurement — Supplied instruments","value":"Not provided"},{"label":"Measurement — Ranges and accuracy","value":"Not provided"},{"label":"Electrical — Operating requirements","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Electrical measurement laboratories", "Electrical engineering practicals", "Circuit measurement demonstrations", "Technical and vocational education"],
+    "images": ["/products/aki-e101-electrical-measurements-illustration.svg"],
+    "imageAlt": "Illustrative electrical measurement training panel concept; not a photograph of AKI-E101"
+  },
+  "AKI-E102": {
+    "shortDescription": "A laboratory trainer for learning three-phase circuit concepts and examining relationships between phase quantities.",
+    "description": "The AKI-E102 Three Phase Circuit Trainer provides an educational context for studying three-phase electrical circuits, phase relationships, and circuit measurement concepts. It can support guided exploration of how three-phase systems are represented and analyzed.\n\nThe trainer's circuit configurations, available loads, connections, ratings, measurement instruments, and operating requirements have not been provided. Consult official documentation before planning experiments or connecting equipment.",
+    "features": ["Three-phase circuit fundamentals", "Phase relationship concepts", "Electrical circuit analysis", "Measurement and observation exercises", "Guided laboratory learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E102"},{"label":"General — Product Type","value":"Three-phase circuit trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Circuit — Supported configurations and loads","value":"Not provided"},{"label":"Measurement — Instruments and ranges","value":"Not provided"},{"label":"Electrical — Voltage and current ratings","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Electrical engineering laboratories", "Three-phase circuit study", "Power-system fundamentals education", "Supervised electrical practicals"],
+    "images": ["/products/aki-e102-three-phase-circuit-trainer-illustration.svg"],
+    "imageAlt": "Illustrative three-phase circuit trainer concept with phase waveforms; not a photograph of AKI-E102"
+  },
+  "AKI-E105": {
+    "shortDescription": "A training platform for studying variable-frequency drive principles and the relationship between drive control and motor operation.",
+    "description": "The AKI-E105 Variable Frequency Drive Trainer introduces variable-frequency drive concepts in the context of electrical drives education. Learners can explore how drive control relates to motor operation and investigate basic drive-system behavior in a supervised laboratory.\n\nThe drive model, motor configuration, supply requirements, control modes, ratings, protection features, and supported exercises have not been provided. Verify compatibility and safety requirements using official product documentation.",
+    "features": ["Variable-frequency drive fundamentals", "Electrical drive control concepts", "Drive and motor relationship study", "Supervised operation demonstrations", "Power-electronics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E105"},{"label":"General — Product Type","value":"Variable frequency drive trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Drive — Drive model and control modes","value":"Not provided"},{"label":"Motor — Type and configuration","value":"Not provided"},{"label":"Electrical — Supply and output ratings","value":"Not provided"},{"label":"Protection — Features and certifications","value":"Not provided"}],
+    "applications": ["Power electronics and drives laboratories", "Motor-control education", "Variable-frequency drive demonstrations", "Electrical engineering practicals"],
+    "images": ["/products/aki-e105-variable-frequency-drive-trainer-illustration.svg"],
+    "imageAlt": "Illustrative variable-frequency drive trainer concept; not a photograph of AKI-E105"
+  },
+  "AKI-E106": {
+    "shortDescription": "An educational module for learning DC-to-DC power conversion and regulated supply principles.",
+    "description": "The AKI-E106 DC-DC Converter Training Module introduces how DC-to-DC converters change one DC voltage level to another. It provides a learning context for switching power conversion, regulation concepts, and basic power-electronics study.\n\nConverter topology, input and output ranges, rated current, switching frequency, isolation, and operating requirements have not been provided. Refer to official product documentation for verified specifications.",
+    "features": ["DC-to-DC conversion principles", "Power-electronics fundamentals", "Voltage conversion concepts", "Introduction to regulation", "Circuit-study exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E106"},{"label":"General — Product Type","value":"DC-DC converter training module"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Conversion — Topology","value":"Not provided"},{"label":"Electrical — Input and output ranges","value":"Not provided"},{"label":"Electrical — Rated output current","value":"Not provided"},{"label":"Conversion — Switching frequency and isolation","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Power electronics laboratories", "DC conversion study", "Regulated supply education", "Electrical engineering practicals"],
+    "images": ["/products/aki-e106-dc-dc-converter-illustration.svg"],
+    "imageAlt": "Illustrative DC-to-DC converter training module concept; not a photograph of AKI-E106"
+  },
+  "AKI-E108": {
+    "shortDescription": "A teaching model for exploring transmission-line behavior and introductory power-system concepts.",
+    "description": "The AKI-E108 Transmission Line Model Trainer provides a laboratory context for studying transmission-line concepts and their role in electrical power systems. It can help learners relate line models, electrical quantities, and power-system behavior through guided study.\n\nThe model's line parameters, topology, voltage level, measurement points, protective devices, and supported experiments have not been provided. Confirm the actual configuration and operating requirements in product documentation.",
+    "features": ["Transmission-line fundamentals", "Power-system model concepts", "Electrical parameter observation", "Line behavior study", "Guided power-system learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E108"},{"label":"General — Product Type","value":"Transmission line model trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Line model — Parameters and topology","value":"Not provided"},{"label":"Electrical — Voltage and current ratings","value":"Not provided"},{"label":"Measurement — Instruments and observation points","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Power-system and protection laboratories", "Transmission-line education", "Electrical engineering demonstrations", "Supervised laboratory exercises"],
+    "images": ["/products/aki-e108-transmission-line-model-trainer-illustration.svg"],
+    "imageAlt": "Illustrative transmission-line model trainer concept; not a photograph of AKI-E108"
+  },
+  "AKI-E109": {
+    "shortDescription": "An educational panel for studying earth-fault concepts, grounding, and electrical protection principles.",
+    "description": "The AKI-E109 Earth Fault Study Panel introduces the concepts of earth faults, grounding, fault-current paths, and electrical protection. It is intended to support supervised learning about electrical safety and protective-system principles.\n\nVoltage and fault-current ratings, protection devices and settings, circuit and grounding configuration, and certifications have not been provided. Use only according to official documentation and appropriate laboratory safety procedures.",
+    "features": ["Introduction to earth-fault concepts", "Grounding and protection principles", "Protective-system learning", "Electrical safety education", "Supervised laboratory study"],
+    "specs": [{"label":"General — Model","value":"AKI-E109"},{"label":"General — Product Type","value":"Earth fault study panel"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Electrical — Voltage and fault-current ratings","value":"Not provided"},{"label":"Protection — Devices and trip settings","value":"Not provided"},{"label":"Configuration — Circuit and grounding details","value":"Not provided"},{"label":"Safety — Certifications","value":"Not provided"}],
+    "applications": ["Electrical safety laboratories", "Grounding and protection education", "Power-system study", "Supervised electrical demonstrations"],
+    "images": ["/products/aki-e109-earth-fault-study-illustration.svg"],
+    "imageAlt": "Illustrative earth-fault study panel and grounding diagram; not a photograph of AKI-E109"
+  },
+  "AKI-E110": {
+    "shortDescription": "A laboratory trainer for learning bridge-circuit balance and electrical measurement principles.",
+    "description": "The AKI-E110 Wheatstone Bridge Trainer introduces the Wheatstone bridge as a circuit method for comparing resistance and studying bridge balance. Learners can use the topic to connect circuit theory with measurement and analysis.\n\nBridge configuration, component values, balance indication method, measurement range, accuracy, and electrical requirements have not been provided. Check official product documentation before selecting experiments.",
+    "features": ["Wheatstone bridge fundamentals", "Bridge balance concepts", "Resistance comparison principles", "Circuit analysis practice", "Electrical measurement learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E110"},{"label":"General — Product Type","value":"Wheatstone bridge trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Circuit — Bridge configuration and components","value":"Not provided"},{"label":"Measurement — Range and accuracy","value":"Not provided"},{"label":"Electrical — Operating requirements","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Electrical measurement laboratories", "Bridge-circuit demonstrations", "Resistance measurement education", "Electrical engineering practicals"],
+    "images": ["/products/aki-e110-wheatstone-bridge-trainer-illustration.svg"],
+    "imageAlt": "Illustrative Wheatstone bridge circuit trainer concept; not a photograph of AKI-E110"
+  },
+  "AKI-E111": {
+    "shortDescription": "A measurement trainer for exploring AC bridge circuits, circuit balance, and impedance measurement concepts.",
+    "description": "The AKI-E111 AC Bridge Measurement Trainer introduces AC bridge principles, including circuit balance and the use of bridge methods to study impedance. It supports learning about how alternating-current bridge circuits are applied in electrical measurement.\n\nBridge configurations, component values, measurement range and accuracy, instruments supplied, and operating requirements have not been provided. Consult official product documentation for confirmed details.",
+    "features": ["AC bridge circuit demonstrations", "Circuit balancing concepts", "Impedance measurement principles", "Electrical measurement fundamentals", "Laboratory experiment learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E111"},{"label":"General — Product Type","value":"AC bridge measurement trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Measurement — Bridge configurations","value":"Not provided"},{"label":"Measurement — Range and accuracy","value":"Not provided"},{"label":"Components — Values and included instruments","value":"Not provided"},{"label":"Electrical — Operating requirements","value":"Not provided"}],
+    "applications": ["AC measurement laboratories", "Impedance measurement education", "Bridge circuit analysis", "Electrical engineering practicals"],
+    "images": ["/products/aki-e111-ac-bridge-illustration.svg"],
+    "imageAlt": "Illustrative AC bridge measurement trainer and balance diagram; not a photograph of AKI-E111"
+  },
+  "AKI-E113": {
+    "shortDescription": "An educational cutaway model for examining AC motor components and learning their general arrangement.",
+    "description": "The AKI-E113 AC Motor Cutaway Model offers a visual learning context for identifying and discussing AC motor components and construction concepts. The cutaway format can support component recognition and introductory electrical-machine study.\n\nThe motor type, internal construction details, scale, moving parts, drive capability, electrical ratings, and included accessories have not been provided. The product is not represented as an operational motor; verify its actual configuration in official documentation.",
+    "features": ["AC motor component recognition", "Electrical-machine construction concepts", "Visual cutaway study", "Motor education demonstrations", "Technical learning support"],
+    "specs": [{"label":"General — Model","value":"AKI-E113"},{"label":"General — Product Type","value":"AC motor cutaway model"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Motor — Type and construction details","value":"Not provided"},{"label":"Operation — Moving parts or motorized operation","value":"Not provided"},{"label":"Electrical — Ratings and requirements","value":"Not provided"},{"label":"Physical — Scale and dimensions","value":"Not provided"}],
+    "applications": ["Electrical machine laboratories", "Motor construction education", "Technical demonstrations", "Electrical engineering instruction"],
+    "images": ["/products/aki-e113-ac-motor-cutaway-model-illustration.svg"],
+    "imageAlt": "Illustrative AC motor cutaway and component layout; not a photograph of AKI-E113"
+  },
+  "AKI-E114": {
+    "shortDescription": "A visual teaching model for exploring transformer construction and the relationship between core and windings.",
+    "description": "The AKI-E114 Transformer Cut Section Model provides an educational view of transformer construction concepts, including the general relationship between a magnetic core and windings. It can help learners discuss transformer structure and basic electromagnetic principles.\n\nCore material, winding arrangement, scale, whether the model is energized or demonstrative only, electrical ratings, and included accessories have not been provided. Refer to official product documentation for the actual model configuration.",
+    "features": ["Transformer construction concepts", "Core and winding visualization", "Electrical-machine component study", "Electromagnetic principle education", "Classroom demonstration potential"],
+    "specs": [{"label":"General — Model","value":"AKI-E114"},{"label":"General — Product Type","value":"Transformer cut section model"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Construction — Core material and winding arrangement","value":"Not provided"},{"label":"Operation — Demonstration or energized configuration","value":"Not provided"},{"label":"Electrical — Ratings and requirements","value":"Not provided"},{"label":"Physical — Scale and dimensions","value":"Not provided"}],
+    "applications": ["Electrical machine laboratories", "Transformer construction education", "Electromagnetic demonstrations", "Technical training"],
+    "images": ["/products/aki-e114-transformer-cut-section-model-illustration.svg"],
+    "imageAlt": "Illustrative transformer cross-section showing conceptual core and windings; not a photograph of AKI-E114"
+  },
+  "AKI-E115": {
+    "shortDescription": "A cutaway teaching model for studying DC machine components and their mechanical arrangement.",
+    "description": "The AKI-E115 DC Machine Cutaway Model provides a visual learning context for identifying the major parts of a DC machine and discussing their roles. Its cutaway format is suited to construction-focused learning about electrical machines.\n\nThe specific machine type, internal components, scale, moving parts, motorized operation, electrical ratings, and supplied accessories have not been provided. Consult official product documentation to confirm the model's configuration.",
+    "features": ["DC machine component recognition", "Machine construction concepts", "Visual cutaway exploration", "Electrical machine fundamentals", "Technical education support"],
+    "specs": [{"label":"General — Model","value":"AKI-E115"},{"label":"General — Product Type","value":"DC machine cutaway model"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Machine — Type and internal components","value":"Not provided"},{"label":"Operation — Moving parts and motorized functions","value":"Not provided"},{"label":"Electrical — Ratings and requirements","value":"Not provided"},{"label":"Physical — Scale and dimensions","value":"Not provided"}],
+    "applications": ["Electrical machine laboratories", "DC machine construction study", "Engineering demonstrations", "Technical and vocational education"],
+    "images": ["/products/aki-e115-dc-machine-cutaway-model-illustration.svg"],
+    "imageAlt": "Illustrative DC machine cutaway concept with internal components; not a photograph of AKI-E115"
+  },
+  "AKI-E116": {
+    "shortDescription": "A trainer for studying motor-generator principles and the conversion of electrical and mechanical energy.",
+    "description": "The AKI-E116 Motor Generator Set Trainer introduces the relationship between a motor and generator in an educational setting. Learners can explore energy conversion concepts and the general behavior of coupled electrical machines.\n\nMachine types, coupling arrangement, operating mode, ratings, control equipment, measurement instruments, and included accessories have not been provided. Verify the trainer configuration and safe operation requirements in official documentation.",
+    "features": ["Motor-generator fundamentals", "Electrical and mechanical energy conversion", "Coupled-machine concepts", "Laboratory observation and measurement", "Electrical engineering learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E116"},{"label":"General — Product Type","value":"Motor generator set trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Machines — Motor and generator types","value":"Not provided"},{"label":"Configuration — Coupling and operating modes","value":"Not provided"},{"label":"Electrical — Ratings and controls","value":"Not provided"},{"label":"Measurement — Instruments and ranges","value":"Not provided"}],
+    "applications": ["Electrical machines laboratories", "Energy conversion demonstrations", "Motor-generator study", "Electrical engineering practicals"],
+    "images": ["/products/aki-e116-motor-generator-set-trainer-illustration.svg"],
+    "imageAlt": "Illustrative coupled motor-generator trainer concept; not a photograph of AKI-E116"
+  },
+  "AKI-E117": {
+    "shortDescription": "An educational demonstrator for exploring regenerative braking and energy recovery concepts in electric drives.",
+    "description": "The AKI-E117 Regenerative Braking Demonstrator introduces the concept of recovering energy during braking in an electrically driven system. Learners can examine the energy-flow principles involved and compare regenerative braking with dissipative braking at a conceptual level.\n\nThe drive configuration, energy-storage method, motor type, electrical ratings, controls, measurements, and supported operating modes have not been provided. Use the product only as described in verified documentation.",
+    "features": ["Regenerative braking fundamentals", "Energy recovery concepts", "Electric drive energy-flow study", "Braking-system comparison", "Supervised engineering demonstrations"],
+    "specs": [{"label":"General — Model","value":"AKI-E117"},{"label":"General — Product Type","value":"Regenerative braking demonstrator"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Drive — Motor and system configuration","value":"Not provided"},{"label":"Energy recovery — Storage or dissipation method","value":"Not provided"},{"label":"Electrical — Ratings and control details","value":"Not provided"},{"label":"Measurement — Parameters and ranges","value":"Not provided"}],
+    "applications": ["Electric drives laboratories", "Regenerative energy education", "Automotive engineering demonstrations", "Electrical engineering projects"],
+    "images": ["/products/aki-e117-regenerative-braking-demonstrator-illustration.svg"],
+    "imageAlt": "Illustrative regenerative braking and energy-flow demonstrator; not a photograph of AKI-E117"
+  },
+  "AKI-E118": {
+    "shortDescription": "A laboratory trainer for learning synchronous-machine principles and the relationship between rotor and stator fields.",
+    "description": "The AKI-E118 Synchronous Machine Trainer introduces synchronous-machine operation and the interaction of magnetic fields in an electrical machine. It can support guided study of machine behavior and related power-system concepts.\n\nMachine construction, ratings, excitation method, operating modes, instrumentation, and supported experiments have not been provided. Check official product documentation to confirm the available configuration and requirements.",
+    "features": ["Synchronous-machine fundamentals", "Rotor and stator field concepts", "Electrical machine behavior study", "Guided laboratory observations", "Power-system education"],
+    "specs": [{"label":"General — Model","value":"AKI-E118"},{"label":"General — Product Type","value":"Synchronous machine trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Machine — Type and construction","value":"Not provided"},{"label":"Excitation — Method and operating modes","value":"Not provided"},{"label":"Electrical — Ratings and requirements","value":"Not provided"},{"label":"Measurement — Instruments and ranges","value":"Not provided"}],
+    "applications": ["Electrical machines laboratories", "Synchronous-machine education", "Power-system practicals", "Engineering demonstrations"],
+    "images": ["/products/aki-e118-synchronous-machine-trainer-illustration.svg"],
+    "imageAlt": "Illustrative synchronous-machine trainer with rotor and stator concepts; not a photograph of AKI-E118"
+  },
+  "AKI-E119": {
+    "shortDescription": "An electronics trainer for studying diode behavior and the relationship between applied voltage and current.",
+    "description": "The AKI-E119 Diode Characteristics Trainer introduces semiconductor diode behavior through the study of voltage-current characteristics and basic device concepts. It provides a framework for guided electronics experiments and interpretation of characteristic curves.\n\nDiode types, circuit arrangements, supply requirements, measurement ranges, accuracy, and included instruments have not been provided. Refer to official product documentation for verified configuration details.",
+    "features": ["Diode operating principles", "Voltage-current characteristic concepts", "Semiconductor device fundamentals", "Characteristic curve interpretation", "Electronics laboratory practice"],
+    "specs": [{"label":"General — Model","value":"AKI-E119"},{"label":"General — Product Type","value":"Diode characteristics trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Components — Diode types and values","value":"Not provided"},{"label":"Circuit — Supported test configurations","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"},{"label":"Measurement — Ranges and accuracy","value":"Not provided"}],
+    "applications": ["Basic electronics laboratories", "Semiconductor device education", "Diode characteristic experiments", "Electronics engineering practicals"],
+    "images": ["/products/aki-e119-diode-characteristics-trainer-illustration.svg"],
+    "imageAlt": "Illustrative diode characteristics trainer with a conceptual current-voltage curve; not a photograph of AKI-E119"
+  },
+  "AKI-E120": {
+    "shortDescription": "An educational trainer for exploring transistor characteristics and introductory semiconductor operation.",
+    "description": "The AKI-E120 Transistor Characteristics Trainer provides a learning context for studying transistor operation and characteristic relationships. Learners can explore how device behavior is represented through electrical measurements and plotted characteristics.\n\nTransistor type, circuit configuration, component values, bias conditions, supply requirements, and measurement ranges have not been provided. Confirm the supported experiments in official product documentation.",
+    "features": ["Transistor operating principles", "Semiconductor characteristic study", "Biasing concepts", "Measurement and curve interpretation", "Practical electronics learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E120"},{"label":"General — Product Type","value":"Transistor characteristics trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Components — Transistor types and values","value":"Not provided"},{"label":"Circuit — Configurations and bias conditions","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"},{"label":"Measurement — Ranges and accuracy","value":"Not provided"}],
+    "applications": ["Basic electronics laboratories", "Transistor characteristic experiments", "Semiconductor education", "Electronics engineering practicals"],
+    "images": ["/products/aki-e120-transistor-characteristics-trainer-illustration.svg"],
+    "imageAlt": "Illustrative transistor characteristics trainer with conceptual device curves; not a photograph of AKI-E120"
+  },
+  "AKI-E121": {
+    "shortDescription": "A practical electronics board for exploring foundational circuits and introductory component behavior.",
+    "description": "The AKI-E121 Basic Electronics Experiment Board is intended as a learning context for introductory electronics and circuit concepts. It can support study of basic components, circuit behavior, and hands-on experimental methods.\n\nThe included components, circuit layouts, connection method, supply requirements, and supported experiments have not been provided. Verify the board configuration and component details in official product documentation.",
+    "features": ["Basic electronics concepts", "Introductory circuit study", "Component behavior exploration", "Hands-on experiment learning", "Foundational electronics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E121"},{"label":"General — Product Type","value":"Basic electronics experiment board"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Components — Included parts and values","value":"Not provided"},{"label":"Circuit — Layouts and supported experiments","value":"Not provided"},{"label":"Electrical — Supply and connection requirements","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Basic electronics laboratories", "Introductory circuit experiments", "Technical education", "Student electronics projects"],
+    "images": ["/products/aki-e121-basic-electronics-experiment-board-illustration.svg"],
+    "imageAlt": "Illustrative basic electronics experiment board with conceptual circuit components; not a photograph of AKI-E121"
+  },
+  "AKI-E122": {
+    "shortDescription": "An analog electronics trainer for studying RC-coupled amplification and frequency-dependent signal behavior.",
+    "description": "The AKI-E122 RC Coupled Amplifier Trainer introduces the use of resistance-capacitance coupling in amplifier circuits. Learners can explore signal amplification concepts, coupling between stages, and the effect of circuit elements on signal behavior.\n\nCircuit topology, number of stages, component values, gain, frequency response, supply requirements, and measurement facilities have not been provided. Consult official documentation for supported experiments and specifications.",
+    "features": ["RC coupling principles", "Amplifier stage concepts", "Signal transfer and amplification", "Frequency-response learning", "Analog electronics experiments"],
+    "specs": [{"label":"General — Model","value":"AKI-E122"},{"label":"General — Product Type","value":"RC coupled amplifier trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Topology and number of stages","value":"Not provided"},{"label":"Components — Resistance and capacitance values","value":"Not provided"},{"label":"Performance — Gain and frequency response","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Amplifier circuit study", "Signal coupling demonstrations", "Electronics engineering practicals"],
+    "images": ["/products/aki-e122-rc-coupled-amplifier-trainer-illustration.svg"],
+    "imageAlt": "Illustrative RC-coupled amplifier circuit trainer; not a photograph of AKI-E122"
+  },
+  "AKI-E123": {
+    "shortDescription": "A trainer for studying field-effect transistor biasing and amplifier circuit fundamentals.",
+    "description": "The AKI-E123 FET Biasing and Amplifier Trainer introduces field-effect transistor biasing concepts and their relationship to amplifier operation. It provides a context for exploring operating points, circuit behavior, and analog signal amplification.\n\nFET type, circuit configurations, component values, bias ranges, gain, frequency response, and supply requirements have not been provided. Verify all supported configurations in official product documentation.",
+    "features": ["Field-effect transistor fundamentals", "Biasing and operating-point concepts", "FET amplifier principles", "Analog signal study", "Practical circuit analysis"],
+    "specs": [{"label":"General — Model","value":"AKI-E123"},{"label":"General — Product Type","value":"FET biasing and amplifier trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Components — FET type and device values","value":"Not provided"},{"label":"Circuit — Biasing and amplifier configurations","value":"Not provided"},{"label":"Performance — Gain and frequency response","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "FET biasing experiments", "Amplifier circuit education", "Electronics engineering practicals"],
+    "images": ["/products/aki-e123-fet-biasing-and-amplifier-trainer-illustration.svg"],
+    "imageAlt": "Illustrative FET biasing and amplifier trainer circuit; not a photograph of AKI-E123"
+  },
+  "AKI-E124": {
+    "shortDescription": "An educational trainer for exploring power-amplifier concepts and output-stage behavior in electronic circuits.",
+    "description": "The AKI-E124 Power Amplifier Study Trainer introduces power-amplifier principles and the role of output stages in electronic systems. Learners can examine general amplifier behavior and relate circuit concepts to signal delivery.\n\nAmplifier class, circuit topology, output power, load requirements, distortion, frequency response, and supply ratings have not been provided. Consult the product documentation for verified technical details.",
+    "features": ["Power-amplifier fundamentals", "Output-stage concepts", "Signal amplification study", "Load and circuit behavior learning", "Analog electronics practice"],
+    "specs": [{"label":"General — Model","value":"AKI-E124"},{"label":"General — Product Type","value":"Power amplifier study trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Amplifier class and topology","value":"Not provided"},{"label":"Performance — Output power and distortion","value":"Not provided"},{"label":"Signal — Frequency response and load requirements","value":"Not provided"},{"label":"Electrical — Supply ratings","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Power-amplifier demonstrations", "Output-stage circuit study", "Electronics engineering practicals"],
+    "images": ["/products/aki-e124-power-amplifier-study-trainer-illustration.svg"],
+    "imageAlt": "Illustrative power-amplifier study trainer with a conceptual output waveform; not a photograph of AKI-E124"
+  },
+  "AKI-E125": {
+    "shortDescription": "A digital electronics trainer for learning logic-gate behavior and foundational Boolean logic.",
+    "description": "The AKI-E125 Digital Logic Gates Trainer introduces fundamental logic gates and the relationship between binary inputs and logic outputs. It supports guided learning about Boolean expressions, truth tables, and digital circuit concepts.\n\nGate types, logic-family technology, input and output levels, supply requirements, connection method, and included components have not been provided. Confirm the trainer's configuration in official documentation.",
+    "features": ["Logic-gate fundamentals", "Binary input-output relationships", "Truth-table study", "Boolean logic concepts", "Digital circuit practice"],
+    "specs": [{"label":"General — Model","value":"AKI-E125"},{"label":"General — Product Type","value":"Digital logic gates trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Logic — Gate types and included components","value":"Not provided"},{"label":"Electrical — Logic family and signal levels","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Digital electronics laboratories", "Logic and Boolean algebra education", "Truth-table demonstrations", "Engineering student practicals"],
+    "images": ["/products/aki-e125-digital-logic-gates-trainer-illustration.svg"],
+    "imageAlt": "Illustrative digital logic gates trainer with conceptual logic symbols; not a photograph of AKI-E125"
+  },
+  "AKI-E126": {
+    "shortDescription": "A digital electronics trainer for exploring sequential logic and state-dependent circuit behavior.",
+    "description": "The AKI-E126 Sequential Logic Trainer introduces digital circuits whose outputs depend on current inputs and stored state. The subject supports learning about state transitions, timing concepts, and sequential circuit analysis.\n\nSupported circuit types, flip-flop devices, clock source, timing ranges, logic family, and supplied components have not been provided. Refer to official documentation for the trainer's exact functions.",
+    "features": ["Sequential logic fundamentals", "State and transition concepts", "Clocked circuit learning", "Digital timing principles", "Hands-on logic analysis"],
+    "specs": [{"label":"General — Model","value":"AKI-E126"},{"label":"General — Product Type","value":"Sequential logic trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Logic — Supported circuits and devices","value":"Not provided"},{"label":"Timing — Clock source and ranges","value":"Not provided"},{"label":"Electrical — Logic family and supply requirements","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Digital electronics laboratories", "Sequential circuit education", "State-machine demonstrations", "Digital logic practicals"],
+    "images": ["/products/aki-e126-sequential-logic-trainer-illustration.svg"],
+    "imageAlt": "Illustrative sequential logic trainer with conceptual state-flow diagram; not a photograph of AKI-E126"
+  },
+  "AKI-E127": {
+    "shortDescription": "A digital electronics trainer for studying digital-to-analog conversion and the representation of analog output.",
+    "description": "The AKI-E127 Digital-to-Analog Converter Trainer introduces the conversion of digital codes into corresponding analog signals. Learners can explore the relationship between input codes, conversion concepts, and an analog output representation.\n\nConverter architecture, resolution, input width, output range, accuracy, reference source, and interface details have not been provided. Use official documentation to verify supported experiments and specifications.",
+    "features": ["Digital-to-analog conversion fundamentals", "Digital code and analog output concepts", "Conversion process demonstrations", "Signal representation study", "Electronics laboratory learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E127"},{"label":"General — Product Type","value":"Digital-to-analog converter trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Conversion — Architecture and input width","value":"Not provided"},{"label":"Measurement — Resolution and accuracy","value":"Not provided"},{"label":"Electrical — Output range and reference source","value":"Not provided"},{"label":"Interface — Input connections","value":"Not provided"}],
+    "applications": ["Digital electronics laboratories", "Data-conversion education", "Signal representation demonstrations", "Electronics engineering practicals"],
+    "images": ["/products/aki-e127-digital-to-analog-converter-trainer-illustration.svg"],
+    "imageAlt": "Illustrative digital-to-analog conversion trainer with stepped waveform concept; not a photograph of AKI-E127"
+  },
+  "AKI-E128": {
+    "shortDescription": "An analog electronics trainer for exploring operational-amplifier circuits and common application concepts.",
+    "description": "The AKI-E128 Operational Amplifier Applications Trainer provides a learning context for studying operational amplifiers and their use in analog circuits. Learners can investigate circuit behavior and compare application concepts through guided exercises.\n\nSupported circuit configurations, amplifier devices, component values, input and output ranges, performance limits, and supply requirements have not been provided. Consult official product documentation for the available applications.",
+    "features": ["Operational-amplifier fundamentals", "Analog application circuit study", "Signal conditioning concepts", "Circuit behavior demonstrations", "Practical electronics learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E128"},{"label":"General — Product Type","value":"Operational amplifier applications trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Supported application configurations","value":"Not provided"},{"label":"Components — Amplifier device and circuit values","value":"Not provided"},{"label":"Signal — Input and output ranges","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Operational-amplifier circuit education", "Signal-conditioning demonstrations", "Electronics practicals"],
+    "images": ["/products/aki-e128-operational-amplifier-applications-trainer-illustration.svg"],
+    "imageAlt": "Illustrative operational-amplifier applications trainer and circuit symbols; not a photograph of AKI-E128"
+  },
+  "AKI-E130": {
+    "shortDescription": "A circuit trainer for studying precision rectification and the conversion of small alternating signals.",
+    "description": "The AKI-E130 Precision Rectifier Trainer introduces precision rectification as a circuit concept and explores how rectifier circuits process alternating signals. It supports study of rectification behavior and signal conditioning in analog electronics.\n\nCircuit topology, amplifier and diode types, input range, frequency response, output characteristics, and supply requirements have not been provided. Verify the trainer configuration in official product documentation.",
+    "features": ["Precision rectification concepts", "Analog signal processing", "Rectifier circuit behavior", "Waveform observation and analysis", "Electronics laboratory exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E130"},{"label":"General — Product Type","value":"Precision rectifier trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Topology and device types","value":"Not provided"},{"label":"Signal — Input range and frequency response","value":"Not provided"},{"label":"Performance — Output characteristics","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Rectifier circuit study", "Signal-conditioning education", "Waveform analysis practicals"],
+    "images": ["/products/aki-e130-precision-rectifier-trainer-illustration.svg"],
+    "imageAlt": "Illustrative precision rectifier trainer with conceptual input and output waveforms; not a photograph of AKI-E130"
+  },
+  "AKI-E131": {
+    "shortDescription": "An analog electronics trainer for studying RC phase-shift oscillator principles and feedback-based signal generation.",
+    "description": "The AKI-E131 RC Phase Shift Oscillator Trainer introduces the use of resistance-capacitance networks and feedback in oscillator circuits. Learners can explore phase shift, oscillation concepts, and how circuit conditions relate to generated waveforms.\n\nCircuit design, component values, operating frequency, output amplitude, active device, and supply requirements have not been provided. Refer to official documentation for supported configurations.",
+    "features": ["RC phase-shift principles", "Oscillator feedback concepts", "Signal generation fundamentals", "Phase relationship study", "Analog circuit experiments"],
+    "specs": [{"label":"General — Model","value":"AKI-E131"},{"label":"General — Product Type","value":"RC phase shift oscillator trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Topology and active device","value":"Not provided"},{"label":"Components — Resistor and capacitor values","value":"Not provided"},{"label":"Signal — Frequency and output amplitude","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Amplifier and oscillator laboratories", "Oscillator circuit education", "Phase-shift demonstrations", "Analog electronics practicals"],
+    "images": ["/products/aki-e131-rc-phase-shift-oscillator-trainer-illustration.svg"],
+    "imageAlt": "Illustrative RC phase-shift oscillator circuit and waveform; not a photograph of AKI-E131"
+  },
+  "AKI-E132": {
+    "shortDescription": "An analog electronics trainer for exploring Wien bridge oscillator operation and feedback concepts.",
+    "description": "The AKI-E132 Wien Bridge Oscillator Trainer introduces the Wien bridge oscillator as an analog signal-generation circuit. Learners can examine bridge feedback concepts and relate circuit behavior to the generation of periodic waveforms.\n\nCircuit topology, component values, active device, operating frequency, output amplitude, stability features, and supply requirements have not been provided. Consult official product documentation for verified details.",
+    "features": ["Wien bridge oscillator fundamentals", "Bridge feedback concepts", "Analog signal generation", "Oscillation behavior study", "Electronics laboratory practice"],
+    "specs": [{"label":"General — Model","value":"AKI-E132"},{"label":"General — Product Type","value":"Wien bridge oscillator trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Topology and active device","value":"Not provided"},{"label":"Components — Bridge component values","value":"Not provided"},{"label":"Signal — Frequency and output amplitude","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Amplifier and oscillator laboratories", "Wien bridge circuit education", "Signal generation demonstrations", "Analog electronics practicals"],
+    "images": ["/products/aki-e132-wien-bridge-oscillator-trainer-illustration.svg"],
+    "imageAlt": "Illustrative Wien bridge oscillator circuit with conceptual waveform; not a photograph of AKI-E132"
+  },
+  "AKI-E134": {
+    "shortDescription": "A hands-on breadboard trainer for assembling and exploring electronic circuits during practical learning.",
+    "description": "The AKI-E134 Universal Breadboard Trainer provides a learning context for assembling and testing electronic circuits on a breadboard. It can support introductory prototyping exercises and practical exploration of circuit connections.\n\nBreadboard format, connection accessories, integrated power sources, supported voltages, component inventory, and included experiments have not been provided. Confirm all included equipment in official product documentation.",
+    "features": ["Breadboard-based circuit assembly", "Introductory electronics prototyping", "Component connection practice", "Circuit testing and observation", "Practical learning support"],
+    "specs": [{"label":"General — Model","value":"AKI-E134"},{"label":"General — Product Type","value":"Universal breadboard trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Board — Format and connection details","value":"Not provided"},{"label":"Electrical — Integrated power and voltage","value":"Not provided"},{"label":"Accessories — Components and leads","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Electronics laboratories", "Circuit prototyping education", "Breadboard connection exercises", "Student electronics projects"],
+    "images": ["/products/aki-e134-universal-breadboard-trainer-illustration.svg"],
+    "imageAlt": "Illustrative universal breadboard trainer with conceptual circuit components; not a photograph of AKI-E134"
+  },
+  "AKI-E135": {
+    "shortDescription": "A breadboard-based station for learning digital circuit prototyping and organized circuit experimentation.",
+    "description": "The AKI-E135 Digital Prototyping Breadboard Station introduces breadboard-based prototyping in a digital electronics learning context. It supports study of how circuit components and connections can be arranged to explore digital concepts.\n\nBoard layout, logic devices, input and output controls, integrated power supply, signal levels, and included accessories have not been provided. Refer to official product documentation before assuming specific capabilities or supplied parts.",
+    "features": ["Digital circuit prototyping concepts", "Breadboard connection practice", "Logic circuit exploration", "Organized experiment setup", "Hands-on digital electronics learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E135"},{"label":"General — Product Type","value":"Digital prototyping breadboard station"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Board — Layout and connection configuration","value":"Not provided"},{"label":"Components — Logic devices and accessories","value":"Not provided"},{"label":"Electrical — Power supply and signal levels","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Digital electronics laboratories", "Digital circuit prototyping", "Logic experiment demonstrations", "Engineering student projects"],
+    "images": ["/products/aki-e135-digital-prototyping-breadboard-station-illustration.svg"],
+    "imageAlt": "Illustrative digital prototyping breadboard station with logic signal concepts; not a photograph of AKI-E135"
+  },
+  "AKI-E136": {
+    "shortDescription": "An educational interface board for exploring embedded-system connections and introductory hardware interfacing concepts.",
+    "description": "The AKI-E136 Embedded Interface Trainer Board provides a learning context for studying how embedded systems connect with electronic interfaces and external circuits. It can support discussion of interface concepts and supervised hardware exploration.\n\nSupported controllers, connector pinouts, interface standards, signal levels, included components, operating voltage, and compatibility have not been provided. Confirm electrical specifications and compatibility in official documentation before connecting external equipment.",
+    "features": ["Embedded interface concepts", "Hardware connection fundamentals", "Electronic interfacing study", "Embedded-system education", "Practical integration experiments"],
+    "specs": [{"label":"General — Model","value":"AKI-E136"},{"label":"General — Product Type","value":"Embedded interface trainer board"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Interface — Supported standards and signals","value":"Not provided"},{"label":"Compatibility — Controllers and pinouts","value":"Not provided"},{"label":"Electrical — Signal levels and operating voltage","value":"Not provided"},{"label":"Components — Included devices and accessories","value":"Not provided"}],
+    "applications": ["Embedded systems laboratories", "Hardware interface education", "Electronics prototyping", "Supervised system-integration exercises"],
+    "images": ["/products/aki-e136-embedded-interface-trainer-board-illustration.svg"],
+    "imageAlt": "Illustrative embedded interface trainer board concept; not a photograph of AKI-E136"
+  },
+  "AKI-E171": {
+    "shortDescription": "An educational optics setup for studying light rays, reflection, refraction, and image formation using optical components arranged along a bench.",
+    "description": "The AKI-E171 Geometrical Optics Bench provides a setting for studying light paths and geometrical optics. Students can investigate alignment, lenses, mirrors, focal-length concepts, and image formation through practical experiments.\n\nSpecific bench dimensions, optical components, light sources, accessories, and focal-length ranges have not been provided. Confirm the actual configuration in product documentation before planning experiments.",
+    "features": ["Light-ray and optical alignment experiments", "Reflection and refraction demonstrations", "Lens and mirror studies", "Image-formation experiments", "Practical optics learning", "Laboratory-based physics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E171"},{"label":"General — Product Type","value":"Geometrical optics bench"},{"label":"General — Category","value":"Physics Lab Equipment"},{"label":"Optics — Included lenses, mirrors, and accessories","value":"Not provided"},{"label":"Optics — Light source and focal-length range","value":"Not provided"},{"label":"Physical — Bench dimensions","value":"Not provided"}],
+    "applications": ["Physics laboratories", "Geometrical optics experiments", "Lens and mirror demonstrations", "Image formation studies", "Engineering and science education"],
+    "images": ["/products/aki-e171-geometrical-optics-illustration.svg"],
+    "imageAlt": "Illustrative geometrical optics bench with lens, mirror, and light-ray diagram; not a photograph of AKI-E171"
+  },
+  "AKI-E172": {
+    "shortDescription": "Educational laboratory apparatus for exploring heat, temperature, thermal processes, and fundamental thermodynamics concepts.",
+    "description": "The AKI-E172 Heat and Thermodynamics Apparatus supports the study of thermal energy, temperature changes, heat transfer, and introductory thermodynamic principles through laboratory demonstrations.\n\nThe specific experiments supported and any supplied heaters, sensors, thermometers, or measuring instruments have not been provided. Refer to product documentation to confirm the actual apparatus configuration.",
+    "features": ["Heat and temperature concepts", "Thermal-process demonstrations", "Thermodynamics experiments", "Practical measurement activities", "Fundamental physics learning", "Laboratory-based investigation"],
+    "specs": [{"label":"General — Model","value":"AKI-E172"},{"label":"General — Product Type","value":"Heat and thermodynamics apparatus"},{"label":"General — Category","value":"Physics Lab Equipment"},{"label":"Thermal — Supported processes and experiments","value":"Not provided"},{"label":"Components — Heating, sensing, and measurement equipment","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Physics laboratories", "Thermodynamics practical sessions", "Heat-transfer demonstrations", "Thermal science education", "Engineering student experiments"],
+    "images": ["/products/aki-e172-thermodynamics-illustration.svg"],
+    "imageAlt": "Illustrative heat and thermodynamics laboratory concept with thermal-transfer diagram; not a photograph of AKI-E172"
+  },
+  "AKI-E170": {
+    "shortDescription": "An educational apparatus set for demonstrating mechanics, motion, forces, and basic laws of classical physics.",
+    "description": "The AKI-E170 Mechanics and Motion Apparatus Set introduces mechanics through practical investigation of motion, forces, displacement, velocity, acceleration, and related classical-physics principles.\n\nThe specific apparatus, included accessories, and measurement instruments have not been provided. Confirm the set contents in product documentation before planning experiments.",
+    "features": ["Mechanics and motion demonstrations", "Force and movement experiments", "Classical physics concepts", "Practical measurement exercises", "Hands-on learning activities", "Introductory laboratory investigations"],
+    "specs": [{"label":"General — Model","value":"AKI-E170"},{"label":"General — Product Type","value":"Mechanics and motion apparatus set"},{"label":"General — Category","value":"Physics Lab Equipment"},{"label":"Apparatus — Included components and accessories","value":"Not provided"},{"label":"Measurement — Instruments and ranges","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Physics laboratories", "Mechanics practical sessions", "Motion and force experiments", "Science education", "Student demonstrations and projects"],
+    "images": ["/products/aki-e170-mechanics-motion-illustration.svg"],
+    "imageAlt": "Illustrative mechanics and motion apparatus concept showing movement and force vectors; not a photograph of AKI-E170"
+  },
+  "AKI-E173": {
+    "shortDescription": "An optics training instrument for learning about spectral analysis, light dispersion, and optical measurement principles.",
+    "description": "The AKI-E173 Optical Spectrometer Trainer introduces how a spectrometer separates or measures light by wavelength. Students can study spectra, dispersion or diffraction principles, and the fundamentals of optical measurement.\n\nThe optical element type, wavelength range, angular resolution, light sources, and measurement accuracy have not been provided. Check official product documentation for verified specifications.",
+    "features": ["Spectroscopy fundamentals", "Light dispersion concepts", "Optical measurement demonstrations", "Spectrum observation and analysis", "Practical optics experiments", "Physics laboratory learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E173"},{"label":"General — Product Type","value":"Optical spectrometer trainer"},{"label":"General — Category","value":"Physics Lab Equipment"},{"label":"Optics — Prism or grating configuration","value":"Not provided"},{"label":"Measurement — Wavelength range and resolution","value":"Not provided"},{"label":"Components — Light source and accessories","value":"Not provided"}],
+    "applications": ["Physics and optics laboratories", "Spectral observation experiments", "Light and wavelength studies", "Science education", "Optical measurement demonstrations"],
+    "images": ["/products/aki-e173-optical-spectrometer-illustration.svg"],
+    "imageAlt": "Illustrative optical spectrometer and separated light spectrum; not a photograph of AKI-E173"
+  },
+  "AKI-E174": {
+    "shortDescription": "An educational experiment set for studying the photovoltaic effect and the conversion of light energy into electrical energy.",
+    "description": "The AKI-E174 Photovoltaic Effect Experiment Set introduces the photovoltaic effect: illumination can produce an electrical response in suitable materials or devices. Learners can investigate the relationship between light and electrical output.\n\nSolar-cell technology, panel ratings, illumination source, efficiency, voltage, current, and supplied measuring instruments have not been provided. Consult product documentation for confirmed setup details.",
+    "features": ["Photovoltaic effect demonstrations", "Light-to-electricity conversion concepts", "Introductory solar-cell experiments", "Electrical response observation", "Practical renewable-energy learning", "Physics laboratory exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E174"},{"label":"General — Product Type","value":"Photovoltaic effect experiment set"},{"label":"General — Category","value":"Physics Lab Equipment"},{"label":"Cell — Technology and rated output","value":"Not provided"},{"label":"Illumination — Source and operating conditions","value":"Not provided"},{"label":"Measurement — Instruments and ranges","value":"Not provided"}],
+    "applications": ["Physics laboratories", "Photovoltaic effect experiments", "Solar-energy education", "Semiconductor and optoelectronics demonstrations", "Student science projects"],
+    "images": ["/products/aki-e174-photovoltaic-effect-illustration.svg"],
+    "imageAlt": "Illustrative photovoltaic cell converting light into electrical response; not a photograph of AKI-E174"
+  },
+  "AKI-E175": {
+    "shortDescription": "A laboratory apparatus for studying ultrasonic waves and investigating wave-related measurement principles.",
+    "description": "The AKI-E175 Ultrasonic Interferometer Set introduces ultrasonic waves, wave propagation, interference, and principles of ultrasonic measurement. Specific interferometer applications are not stated because the product configuration has not been verified.\n\nThe measured medium, transducers, operating frequency, and measurement ranges have not been provided. Check official product documentation before selecting an experiment.",
+    "features": ["Ultrasonic wave fundamentals", "Wave propagation demonstrations", "Interference principles", "Laboratory measurement exercises", "Practical wave-study experiments", "Physics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E175"},{"label":"General — Product Type","value":"Ultrasonic interferometer set"},{"label":"General — Category","value":"Physics Lab Equipment"},{"label":"Ultrasonic — Transducer configuration and frequency","value":"Not provided"},{"label":"Measurement — Medium and measured quantities","value":"Not provided"},{"label":"Measurement — Range and accuracy","value":"Not provided"}],
+    "applications": ["Physics laboratories", "Ultrasonic wave experiments", "Wave interference studies", "Acoustics and wave education", "Engineering physics practical sessions"],
+    "images": ["/products/aki-e175-ultrasonic-interferometer-illustration.svg"],
+    "imageAlt": "Illustrative ultrasonic wave and interference laboratory concept; not a photograph of AKI-E175"
+  },
+  "AKI-E189": {
+    "shortDescription": "An educational HVAC training system for learning psychrometric properties of air and the basic principles of air conditioning.",
+    "description": "The AKI-E189 Air Conditioning Psychrometric Trainer introduces humidity, dry-bulb and wet-bulb temperature concepts, relative humidity, and the principles of air conditioning and air treatment.\n\nRefrigerant, compressor and cooling capacities, airflow, sensors, chart software, and supplied measurement devices have not been provided. Verify equipment-specific details from official documentation.",
+    "features": ["Psychrometric principles", "Air-conditioning fundamentals", "Humidity and temperature concepts", "HVAC process demonstrations", "Practical thermal engineering learning", "Laboratory-based investigation"],
+    "specs": [{"label":"General — Model","value":"AKI-E189"},{"label":"General — Product Type","value":"Air conditioning psychrometric trainer"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"HVAC — Refrigerant and system configuration","value":"Not provided"},{"label":"Thermal — Cooling capacity and airflow","value":"Not provided"},{"label":"Measurement — Sensors and instruments","value":"Not provided"}],
+    "applications": ["HVAC laboratories", "Mechanical engineering education", "Psychrometric studies", "Air-conditioning training", "Thermal engineering demonstrations"],
+    "images": ["/products/aki-e189-psychrometric-trainer-illustration.svg"],
+    "imageAlt": "Illustrative HVAC psychrometric air-treatment concept; not a photograph of AKI-E189"
+  },
+  "AKI-E183": {
+    "shortDescription": "A materials-testing training system for learning the Brinell hardness test and the assessment of material indentation resistance.",
+    "description": "The AKI-E183 Brinell Hardness Test Bench introduces the Brinell hardness-testing principle: an indenter applies a test force to a material, and the resulting indentation is used in hardness assessment.\n\nTest-force range, indenter dimensions, hardness range, accuracy, specimen dimensions, and compliance certifications have not been provided. Consult product documentation for verified details.",
+    "features": ["Brinell hardness testing principles", "Materials-testing demonstrations", "Indentation measurement concepts", "Introduction to material hardness", "Practical mechanical engineering education", "Laboratory testing exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E183"},{"label":"General — Product Type","value":"Brinell hardness test bench"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Testing — Force range and indenter dimensions","value":"Not provided"},{"label":"Measurement — Hardness range and accuracy","value":"Not provided"},{"label":"Specimen — Dimensions and supported materials","value":"Not provided"},{"label":"Compliance — Certifications","value":"Not provided"}],
+    "applications": ["Materials science laboratories", "Mechanical engineering practical sessions", "Materials testing education", "Manufacturing and quality-control training", "Material property demonstrations"],
+    "images": ["/products/aki-e183-brinell-hardness-illustration.svg"],
+    "imageAlt": "Illustrative Brinell hardness indentation test concept; not a photograph of AKI-E183"
+  },
+  "AKI-E190": {
+    "shortDescription": "A mechanical and thermal engineering training unit for studying the roles of compressors and condensers in refrigeration or air-conditioning systems.",
+    "description": "The AKI-E190 Compressor and Condenser Demonstrator introduces the general functions of a compressor and condenser in a refrigeration cycle, including refrigerant compression and heat rejection. It is not represented as a complete refrigeration system.\n\nCompressor type, refrigerant, motor rating, cooling capacity, pressure range, condenser design, and controls have not been provided. Consult official documentation for the actual configuration.",
+    "features": ["Compressor operating principles", "Condenser function and heat rejection", "Refrigeration-cycle fundamentals", "Thermal-system component study", "Mechanical engineering education", "Laboratory demonstration potential"],
+    "specs": [{"label":"General — Model","value":"AKI-E190"},{"label":"General — Product Type","value":"Compressor and condenser demonstrator"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Compressor — Type and motor rating","value":"Not provided"},{"label":"Refrigeration — Refrigerant and pressure range","value":"Not provided"},{"label":"Thermal — Cooling capacity and condenser design","value":"Not provided"},{"label":"System — Controls and completeness","value":"Not provided"}],
+    "applications": ["Refrigeration and HVAC laboratories", "Thermal engineering education", "Compressor and condenser demonstrations", "Refrigeration-cycle study", "Mechanical engineering practical sessions"],
+    "images": ["/products/aki-e190-compressor-condenser-illustration.svg"],
+    "imageAlt": "Illustrative compressor and condenser refrigeration-cycle components; not a photograph of AKI-E190"
+  },
+  "AKI-E180": {
+    "shortDescription": "A mechanical and thermal engineering training bench for studying convection heat transfer concepts in a laboratory setting.",
+    "description": "The AKI-E180 Convection Heat Transfer Bench is presented as a learning platform for investigating convection and thermal energy transfer. The available product information does not specify the supported experiments or configuration; confirm the intended setup with official product documentation before use.",
+    "features": ["Convection heat-transfer concepts", "Thermal engineering demonstrations", "Heat-transfer observation", "Laboratory-based investigation", "Practical engineering education", "Supervised thermal-study exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E180"},{"label":"General — Product Type","value":"Convection heat transfer bench"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Thermal — Supported processes and experiment configuration","value":"Not provided"},{"label":"Utilities — Heating, airflow, and power requirements","value":"Not provided"},{"label":"Measurement — Sensors, instruments, and ranges","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Thermal engineering laboratories", "Convection heat-transfer demonstrations", "Mechanical engineering education", "Heat-transfer practical sessions", "Student thermal-science projects"],
+    "images": ["/products/aki-e180-convection-heat-transfer-illustration.svg"],
+    "imageAlt": "Illustrative convection heat-transfer flow around a heated surface; not a photograph of AKI-E180"
+  },
+  "AKI-E103": {
+    "shortDescription": "An educational wiring practice board for learning basic electrical connections, wiring techniques, and circuit assembly.",
+    "description": "The AKI-E103 Electrical Wiring Practice Board introduces electrical wiring principles, connection identification, circuit layouts, and safe wiring practices through supervised laboratory exercises.\n\nSpecific switches, sockets, protective devices, wire gauges, supply voltages, and circuit configurations have not been confirmed. Check product documentation before planning wiring activities.",
+    "features": ["Electrical wiring practice", "Circuit connection demonstrations", "Introduction to wiring layouts", "Basic electrical installation concepts", "Hands-on technical training", "Supervised laboratory exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E103"},{"label":"General — Product Type","value":"Electrical wiring practice board"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Wiring — Devices and circuit configuration","value":"Not provided"},{"label":"Electrical — Supply voltage and protection","value":"Not provided"},{"label":"Wiring — Conductor gauge and layout","value":"Not provided"},{"label":"Physical — Dimensions","value":"Not provided"}],
+    "applications": ["Electrical wiring laboratories", "Technical and vocational training", "Basic installation practice", "Electrical circuit education", "Student practical examinations"],
+    "images": ["/products/aki-e103-electrical-wiring-illustration.svg"],
+    "imageAlt": "Illustrative electrical wiring practice board diagram; not a photograph of AKI-E103"
+  },
+  "AKI-E112": {
+    "shortDescription": "A laboratory training panel for learning how inductance, capacitance, and resistance are measured and interpreted.",
+    "description": "The AKI-E112 LCR Component Measurement Panel introduces inductance, capacitance, and resistance measurement, component characteristics, and measurement techniques. It also supports study of the role of passive components in electrical and electronic circuits.\n\nA specific LCR meter, measurement frequency, accuracy, range, test method, or included components has not been verified. Refer to product documentation for confirmed specifications.",
+    "features": ["Inductance measurement concepts", "Capacitance measurement principles", "Resistance measurement", "Passive-component characterization", "Practical measurement exercises", "Electrical and electronics laboratory learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E112"},{"label":"General — Product Type","value":"LCR component measurement panel"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Measurement — Instrument and test method","value":"Not provided"},{"label":"Measurement — Frequency, range, and accuracy","value":"Not provided"},{"label":"Components — Included component values","value":"Not provided"},{"label":"Electrical — Operating requirements","value":"Not provided"}],
+    "applications": ["Electrical measurement laboratories", "Electronics practical sessions", "Passive-component testing demonstrations", "Circuit-analysis experiments", "Engineering education"],
+    "images": ["/products/aki-e112-lcr-measurement-illustration.svg"],
+    "imageAlt": "Illustrative LCR component measurement panel with conceptual resistor, capacitor, and inductor; not a photograph of AKI-E112"
+  },
+  "AKI-E107": {
+    "shortDescription": "An educational demonstration unit for studying protective relays and their role in electrical fault detection and protection.",
+    "description": "The AKI-E107 Protective Relay Demonstrator introduces the purpose of protective relays, fault-detection principles, protection coordination concepts, and the role of relays in electrical systems.\n\nRelay types, trip settings, fault-current ratings, operating voltages, functions, and certifications have not been provided. Use only in a properly designed laboratory under qualified supervision; this description does not instruct users to create live electrical faults.",
+    "features": ["Introduction to protective relays", "Relay operation demonstrations", "Fault-detection concepts", "Electrical protection fundamentals", "Supervised laboratory experiments", "Protective-system learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E107"},{"label":"General — Product Type","value":"Protective relay demonstrator"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Protection — Relay types and functions","value":"Not provided"},{"label":"Protection — Trip settings and coordination","value":"Not provided"},{"label":"Electrical — Operating voltage and fault-current rating","value":"Not provided"},{"label":"Compliance — Certifications","value":"Not provided"}],
+    "applications": ["Electrical power-system laboratories", "Protection and control training", "Relay-operation demonstrations", "Electrical engineering practical sessions", "Power-system education"],
+    "images": ["/products/aki-e107-protective-relay-illustration.svg"],
+    "imageAlt": "Illustrative protective relay demonstration panel and schematic; not a photograph of AKI-E107"
+  },
+  "AKI-E104": {
+    "shortDescription": "A power-electronics training unit for studying single-phase controlled rectification and AC-to-DC conversion principles.",
+    "description": "The AKI-E104 Single Phase Controlled Rectifier Trainer introduces conversion of AC power into controlled DC output, including rectification, triggering concepts, output waveforms, and basic power-electronics analysis.\n\nThe semiconductor configuration, firing-angle range, voltage, current, output rating, and built-in instruments have not been provided. Consult product documentation before selecting experiments or connecting equipment.",
+    "features": ["Single-phase controlled rectification concepts", "AC-to-DC conversion demonstrations", "Introduction to triggering and control", "Rectifier waveform study", "Power-electronics laboratory exercises", "Electrical engineering education"],
+    "specs": [{"label":"General — Model","value":"AKI-E104"},{"label":"General — Product Type","value":"Single-phase controlled rectifier trainer"},{"label":"General — Category","value":"Electrical Lab Equipment"},{"label":"Circuit — Semiconductor configuration","value":"Not provided"},{"label":"Control — Firing-angle range and method","value":"Not provided"},{"label":"Electrical — Input, output, and current ratings","value":"Not provided"},{"label":"Measurement — Built-in instruments","value":"Not provided"}],
+    "applications": ["Power-electronics laboratories", "Controlled rectifier experiments", "Waveform analysis", "Electrical engineering practical sessions", "Power conversion education"],
+    "images": ["/products/aki-e104-controlled-rectifier-illustration.svg"],
+    "imageAlt": "Illustrative single-phase controlled rectifier circuit and waveform; not a photograph of AKI-E104"
+  },
+  "AKI-E129": {
+    "shortDescription": "An electronics training platform for exploring active-filter circuits and their frequency-dependent signal behavior.",
+    "description": "The AKI-E129 Active Filter Trainer introduces how active electronic components can shape signal frequencies. Learners can explore filter responses, frequency characteristics, and the educational study of signal conditioning.\n\nSpecific filter types, cutoff frequencies, filter order, operational-amplifier model, and performance specifications have not been provided. Confirm supported configurations in product documentation.",
+    "features": ["Active-filter circuit concepts", "Frequency-response demonstrations", "Signal-conditioning fundamentals", "Filter behavior and waveform study", "Electronics laboratory exercises", "Practical circuit-analysis learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E129"},{"label":"General — Product Type","value":"Active filter trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Circuit — Filter types and order","value":"Not provided"},{"label":"Signal — Cutoff and operating frequency","value":"Not provided"},{"label":"Components — Active device model","value":"Not provided"},{"label":"Performance — Gain and response limits","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Signal-processing demonstrations", "Frequency-response experiments", "Filter-design education", "Electronics student projects"],
+    "images": ["/products/aki-e129-active-filter-illustration.svg"],
+    "imageAlt": "Illustrative active-filter circuit and frequency-response concept; not a photograph of AKI-E129"
+  },
+  "AKI-E137": {
+    "shortDescription": "A communications training module for learning the fundamentals of amplitude modulation and demodulation.",
+    "description": "The AKI-E137 Amplitude Modulation Trainer introduces how a carrier signal's amplitude varies according to a message signal. Learners can study carrier and message signals, modulated waveforms, modulation concepts, and basic communications experiments.\n\nCarrier frequency, modulation range, output power, circuit configuration, demodulation method, and included instruments have not been provided. Refer to product documentation for verified details.",
+    "features": ["Amplitude modulation fundamentals", "Carrier and message signal concepts", "Modulated waveform demonstrations", "Introduction to modulation depth", "Communication-system laboratory exercises", "Signal-analysis learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E137"},{"label":"General — Product Type","value":"Amplitude modulation trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Signal — Carrier frequency and output power","value":"Not provided"},{"label":"Modulation — Range and circuit configuration","value":"Not provided"},{"label":"Demodulation — Method and components","value":"Not provided"},{"label":"Measurement — Included instruments","value":"Not provided"}],
+    "applications": ["Communication engineering laboratories", "Analog communication experiments", "Modulation and demodulation education", "Signal waveform analysis", "Electronics practical sessions"],
+    "images": ["/products/aki-e137-amplitude-modulation-illustration.svg"],
+    "imageAlt": "Illustrative amplitude-modulated carrier and message waveforms; not a photograph of AKI-E137"
+  },
+  "AKI-E133": {
+    "shortDescription": "An educational electronics board for studying audio amplification, oscillator circuits, and basic signal generation.",
+    "description": "The AKI-E133 Audio Amplifier and Oscillator Board introduces audio amplification, oscillator principles, and basic signal generation. It supports study of how electronic circuit behavior relates to output signals.\n\nAmplifier class, frequency range, output power, oscillator topology and stability, speaker inclusion, and component specifications have not been provided. Confirm the board configuration from official product documentation.",
+    "features": ["Audio amplification concepts", "Oscillator circuit demonstrations", "Basic signal generation", "Electronic circuit study", "Practical laboratory exercises", "Analog electronics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E133"},{"label":"General — Product Type","value":"Audio amplifier and oscillator board"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Amplifier — Class and output power","value":"Not provided"},{"label":"Oscillator — Topology and frequency range","value":"Not provided"},{"label":"Components — Speaker and included components","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Audio circuit demonstrations", "Oscillator experiments", "Signal-generation education", "Engineering student projects"],
+    "images": ["/products/aki-e133-audio-amplifier-oscillator-illustration.svg"],
+    "imageAlt": "Illustrative audio amplifier and oscillator circuit board concept; not a photograph of AKI-E133"
+  },
+  "AKI-E162": {
+    "shortDescription": "A training system for learning audio-system fundamentals, signal paths, basic troubleshooting concepts, and electronic servicing procedures.",
+    "description": "The AKI-E162 Audio System Service Trainer introduces audio signal flow, functional blocks of an audio system, basic fault diagnosis, and systematic troubleshooting principles. It is presented as an educational platform for electronics servicing.\n\nSpecific audio devices, speakers, amplifier models, fault-insertion mechanisms, test instruments, and service manuals have not been verified. Consult official product documentation for included equipment.",
+    "features": ["Audio-system functional concepts", "Signal-path learning", "Introduction to troubleshooting", "Audio electronics demonstrations", "Practical servicing exercises", "Technical training support"],
+    "specs": [{"label":"General — Model","value":"AKI-E162"},{"label":"General — Product Type","value":"Audio system service trainer"},{"label":"General — Category","value":"Electronics Lab Equipment"},{"label":"Audio — Supported system and included devices","value":"Not provided"},{"label":"Training — Fault-insertion features and procedures","value":"Not provided"},{"label":"Equipment — Test instruments and service materials","value":"Not provided"},{"label":"Electrical — Supply requirements","value":"Not provided"}],
+    "applications": ["Electronics servicing laboratories", "Audio-system troubleshooting education", "Technical and vocational training", "Audio electronics practical sessions", "Student repair and diagnostic projects"],
+    "images": ["/products/aki-e162-audio-system-service-illustration.svg"],
+    "imageAlt": "Illustrative audio service-training panel with conceptual signal path; not a photograph of AKI-E162"
+  },
+  "AKI-E187": {
+    "shortDescription": "An educational demonstration model for understanding the main components and operating principles of a diesel engine.",
+    "description": "The AKI-E187 Diesel Engine Working Model introduces the compression-ignition principle, the purpose of major engine components, and the sequence of events in an engine cycle.\n\nWhether this model is cutaway, motorized, or operational and which components are included have not been verified. It is not represented as supplied with fuel. Confirm construction and contents in official product documentation.",
+    "features": ["Diesel engine operating-principle demonstration", "Introduction to engine components", "Engine-cycle learning", "Mechanical system visualization", "Practical engineering education"],
+    "specs": [{"label":"General — Model","value":"AKI-E187"},{"label":"General — Product Type","value":"Diesel engine working model"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Engine — Construction and operating mode","value":"Not provided"},{"label":"Engine — Included components and accessories","value":"Not provided"}],
+    "applications": ["Mechanical engineering laboratories", "Automobile engineering education", "Internal combustion engine demonstrations", "Technical training sessions"],
+    "images": ["/products/aki-e187-diesel-engine-illustration.svg"],
+    "imageAlt": "Illustrative diesel engine working-model concept; not a photograph of AKI-E187"
+  },
+  "AKI-E186": {
+    "shortDescription": "A laboratory test bench intended for studying engine performance and the principles of engine testing.",
+    "description": "The AKI-E186 Engine Performance Test Bench introduces engine-performance concepts such as power output, torque, fuel consumption, efficiency, and performance characteristics. Practical measurement and analysis should be limited to tests supported by the verified equipment configuration.\n\nEngine type, rated power, torque range, dynamometer type, fuel-consumption range, sensors, and included instruments have not been provided.",
+    "features": ["Engine performance study", "Introduction to engine testing", "Performance measurement concepts", "Practical thermal engineering learning", "Experimental data analysis"],
+    "specs": [{"label":"General — Model","value":"AKI-E186"},{"label":"General — Product Type","value":"Engine performance test bench"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Engine — Type and rated power","value":"Not provided"},{"label":"Testing — Dynamometer and measurement ranges","value":"Not provided"},{"label":"Instrumentation — Sensors and included instruments","value":"Not provided"}],
+    "applications": ["Mechanical engineering laboratories", "Automobile engineering education", "Engine testing demonstrations", "Thermal engineering practical sessions"],
+    "images": ["/products/aki-e186-engine-performance-illustration.svg"],
+    "imageAlt": "Illustrative engine performance testing bench concept; not a photograph of AKI-E186"
+  },
+  "AKI-E177": {
+    "shortDescription": "An educational fluid mechanics trainer for studying flow measurement techniques and the behavior of fluids in a test system.",
+    "description": "The AKI-E177 Flow Measurement Trainer introduces flow rate, fluid movement, and common principles used to measure flow. It provides a context for fluid mechanics demonstrations and experimental observation.\n\nSpecific meters, sensors, pumps, test-system configuration, and measurement ranges have not been verified. Refer to product documentation for supported equipment and experiments.",
+    "features": ["Flow measurement fundamentals", "Fluid mechanics demonstrations", "Flow-rate observation", "Experimental measurement exercises", "Practical engineering education"],
+    "specs": [{"label":"General — Model","value":"AKI-E177"},{"label":"General — Product Type","value":"Flow measurement trainer"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Flow — Instruments and test-section configuration","value":"Not provided"},{"label":"Fluid system — Pump and operating requirements","value":"Not provided"},{"label":"Measurement — Flow range and accuracy","value":"Not provided"}],
+    "applications": ["Fluid mechanics laboratories", "Hydraulic engineering education", "Flow measurement experiments", "Engineering practical sessions"],
+    "images": ["/products/aki-e177-flow-measurement-illustration.svg"],
+    "imageAlt": "Illustrative fluid flow measurement trainer concept; not a photograph of AKI-E177"
+  },
+  "AKI-E178": {
+    "shortDescription": "A process-control training system for learning fluid-level measurement, monitoring, and control principles.",
+    "description": "The AKI-E178 Level Control Process Trainer introduces how process systems measure and regulate liquid levels, including feedback-control concepts, sensor signals, and the relationship between a controller and a controlled process.\n\nTank dimensions, controller type, control algorithm, sensor technology, pump capacity, and included actuators have not been provided. Verify the installed configuration in official documentation.",
+    "features": ["Liquid-level control concepts", "Process instrumentation fundamentals", "Feedback-control demonstrations", "Level monitoring and measurement", "Practical control-system exercises"],
+    "specs": [{"label":"General — Model","value":"AKI-E178"},{"label":"General — Product Type","value":"Level control process trainer"},{"label":"General — Category","value":"Mechanical Lab Equipment"},{"label":"Process — Tank dimensions and capacity","value":"Not provided"},{"label":"Control — Controller and algorithm","value":"Not provided"},{"label":"Instrumentation — Sensor, pump, and actuators","value":"Not provided"}],
+    "applications": ["Process control laboratories", "Instrumentation education", "Industrial automation training", "Fluid-level control demonstrations"],
+    "images": ["/products/aki-e178-level-control-illustration.svg"],
+    "imageAlt": "Illustrative liquid-level process control trainer concept; not a photograph of AKI-E178"
+  },
+  "AKI-E194": {
+    "shortDescription": "A testing apparatus for studying the compressive strength of concrete specimens in civil engineering laboratories.",
+    "description": "The AKI-E194 Concrete Compression Test Frame introduces the general principles of concrete compression testing, specimen loading, and strength assessment. Material testing helps students understand how measured specimen behavior informs construction engineering.\n\nLoad capacity, testing range, platen dimensions, accuracy, specimen size, and compliance with testing standards have not been provided.",
+    "features": ["Concrete compression-testing concepts", "Introduction to specimen loading", "Material-strength assessment", "Civil engineering laboratory learning", "Practical testing demonstrations"],
+    "specs": [{"label":"General — Model","value":"AKI-E194"},{"label":"General — Product Type","value":"Concrete compression test frame"},{"label":"General — Category","value":"Civil & Chemical Lab Equipment"},{"label":"Testing — Load capacity and range","value":"Not provided"},{"label":"Testing — Platen dimensions and accuracy","value":"Not provided"},{"label":"Specimen — Size and supported standards","value":"Not provided"}],
+    "applications": ["Civil engineering laboratories", "Concrete technology education", "Construction material testing", "Quality-control training"],
+    "images": ["/products/aki-e194-concrete-compression-illustration.svg"],
+    "imageAlt": "Illustrative concrete compression testing frame concept; not a photograph of AKI-E194"
+  },
+  "AKI-E198": {
+    "shortDescription": "An educational model for understanding the principles and major components of distillation-column processes.",
+    "description": "The AKI-E198 Distillation Column Model introduces distillation as a separation process based on differences in component volatility. It illustrates the general function of column sections and vapor-liquid contact.\n\nWhether the product is a demonstration model or an operational experimental unit has not been verified. Operating conditions, materials, tray count, feed capacity, and supplied chemicals are not provided.",
+    "features": ["Distillation-process concepts", "Separation-process education", "Column-component visualization", "Chemical engineering fundamentals", "Practical process-study learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E198"},{"label":"General — Product Type","value":"Distillation column model"},{"label":"General — Category","value":"Civil & Chemical Lab Equipment"},{"label":"Column — Demonstration or operational configuration","value":"Not provided"},{"label":"Process — Materials, trays, and capacity","value":"Not provided"},{"label":"Utilities — Operating temperature and pressure","value":"Not provided"}],
+    "applications": ["Chemical engineering education", "Separation-process demonstrations", "Process engineering laboratories", "Introductory mass-transfer studies"],
+    "images": ["/products/aki-e198-distillation-column-illustration.svg"],
+    "imageAlt": "Illustrative distillation column and vapor-liquid separation concept; not a photograph of AKI-E198"
+  },
+  "AKI-E197": {
+    "shortDescription": "An educational bench for demonstrating fluid flow behavior and fundamental fluid mechanics principles.",
+    "description": "The AKI-E197 Fluid Flow Demonstration Bench provides a setting for observing fluid flow, pressure variation, and flow behavior, and relating experimental observations to fluid mechanics theory.\n\nA particular pump, pipe configuration, flow meter, manometer, and measurement range have not been verified. Refer to product documentation for the bench layout and supported experiments.",
+    "features": ["Fluid flow demonstrations", "Fluid mechanics fundamentals", "Flow behavior observation", "Practical experimental learning", "Engineering laboratory use"],
+    "specs": [{"label":"General — Model","value":"AKI-E197"},{"label":"General — Product Type","value":"Fluid flow demonstration bench"},{"label":"General — Category","value":"Civil & Chemical Lab Equipment"},{"label":"Flow system — Pump and pipe configuration","value":"Not provided"},{"label":"Measurement — Meters, manometers, and ranges","value":"Not provided"},{"label":"Physical — Bench dimensions","value":"Not provided"}],
+    "applications": ["Fluid mechanics laboratories", "Civil engineering education", "Hydraulic engineering demonstrations", "Flow behavior experiments"],
+    "images": ["/products/aki-e197-fluid-flow-bench-illustration.svg"],
+    "imageAlt": "Illustrative fluid flow demonstration bench concept; not a photograph of AKI-E197"
+  },
+  "AKI-E199": {
+    "shortDescription": "A thermal engineering demonstration unit for studying heat transfer between fluids through a heat exchanger.",
+    "description": "The AKI-E199 Heat Exchanger Demonstrator introduces the purpose of heat exchangers and the transfer of thermal energy between fluid streams. It supports learning about general exchanger concepts.\n\nExchanger configuration, heat-transfer capacity, flow rate, temperature range, and included sensors have not been provided. No particular flow arrangement or exchanger design is implied.",
+    "features": ["Heat exchanger fundamentals", "Thermal energy transfer concepts", "Temperature observation", "Heat-transfer demonstrations", "Practical thermal engineering education"],
+    "specs": [{"label":"General — Model","value":"AKI-E199"},{"label":"General — Product Type","value":"Heat exchanger demonstrator"},{"label":"General — Category","value":"Civil & Chemical Lab Equipment"},{"label":"Heat exchanger — Configuration and flow arrangement","value":"Not provided"},{"label":"Thermal — Capacity and temperature range","value":"Not provided"},{"label":"Instrumentation — Sensors and flow rates","value":"Not provided"}],
+    "applications": ["Thermal engineering laboratories", "Chemical engineering education", "Heat-transfer experiments", "Process engineering demonstrations"],
+    "images": ["/products/aki-e199-heat-exchanger-illustration.svg"],
+    "imageAlt": "Illustrative heat exchanger concept with two fluid streams; not a photograph of AKI-E199"
+  },
+  "AKI-E195": {
+    "shortDescription": "An educational apparatus for studying soil compaction and the relationship between moisture content and soil density.",
+    "description": "The AKI-E195 Soil Compaction Test Apparatus introduces the purpose of soil compaction testing and how compaction influences soil engineering properties. Learners can study the relationship between moisture content and dry density.\n\nMold dimensions, rammer mass, drop height, compaction energy, included accessories, and testing-standard compliance have not been provided.",
+    "features": ["Soil compaction principles", "Soil density study", "Moisture-content concepts", "Geotechnical laboratory exercises", "Civil engineering education"],
+    "specs": [{"label":"General — Model","value":"AKI-E195"},{"label":"General — Product Type","value":"Soil compaction test apparatus"},{"label":"General — Category","value":"Civil & Chemical Lab Equipment"},{"label":"Compaction — Mold dimensions and accessories","value":"Not provided"},{"label":"Compaction — Rammer mass, drop height, and energy","value":"Not provided"},{"label":"Compliance — Testing standard","value":"Not provided"}],
+    "applications": ["Geotechnical engineering laboratories", "Soil mechanics practical sessions", "Construction material education", "Foundation engineering studies"],
+    "images": ["/products/aki-e195-soil-compaction-illustration.svg"],
+    "imageAlt": "Illustrative soil compaction testing apparatus concept; not a photograph of AKI-E195"
+  },
+  "AKI-E196": {
+    "shortDescription": "An educational instrument set for learning basic land surveying and field measurement techniques.",
+    "description": "The AKI-E196 Surveying Instrument Practice Set introduces surveying fundamentals, site measurements, leveling, alignment, and the role of surveying instruments in civil engineering projects.\n\nSpecific instruments, accessories, and measurement accuracy have not been verified. The set is not represented as including a total station, theodolite, automatic level, tripod, prism, or measuring staff.",
+    "features": ["Surveying fundamentals", "Field measurement practice", "Alignment and leveling concepts", "Introduction to surveying instruments", "Practical civil engineering learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E196"},{"label":"General — Product Type","value":"Surveying instrument practice set"},{"label":"General — Category","value":"Civil & Chemical Lab Equipment"},{"label":"Instruments — Included equipment","value":"Not provided"},{"label":"Accessories — Tripods, prisms, and staffs","value":"Not provided"},{"label":"Measurement — Accuracy and operating range","value":"Not provided"}],
+    "applications": ["Civil engineering laboratories", "Surveying practical sessions", "Site measurement education", "Construction engineering training"],
+    "images": ["/products/aki-e196-surveying-instrument-illustration.svg"],
+    "imageAlt": "Illustrative land surveying instrument practice concept; not a photograph of AKI-E196"
+  },
+  "AKI-E222": {
+    "shortDescription": "An educational training unit for studying electric motors and their role in electric mobility systems.",
+    "description": "The AKI-E222 Electric Mobility Motor Study Unit introduces the function of electric motors in electric vehicles, fundamental motor operation, and the relationship between electrical input and mechanical output.\n\nMotor type, rated power, voltage, torque, speed range, controller, and battery inclusion have not been provided.",
+    "features": ["Electric motor fundamentals", "Electric mobility concepts", "Motor operation demonstrations", "Introduction to motor characteristics", "Practical EV education"],
+    "specs": [{"label":"General — Model","value":"AKI-E222"},{"label":"General — Product Type","value":"Electric mobility motor study unit"},{"label":"General — Category","value":"EV & Renewable Energy"},{"label":"Motor — Type, rated power, and speed range","value":"Not provided"},{"label":"Electrical — Voltage and controller","value":"Not provided"},{"label":"Energy storage — Battery inclusion and details","value":"Not provided"}],
+    "applications": ["Electric vehicle training laboratories", "Electrical and mechanical engineering education", "Motor study demonstrations", "Electric mobility projects"],
+    "images": ["/products/aki-e222-ev-motor-study-illustration.svg"],
+    "imageAlt": "Illustrative electric mobility motor training concept; not a photograph of AKI-E222"
+  },
+  "AKI-E221": {
+    "shortDescription": "An educational trainer for studying solar charging control and the relationship between photovoltaic sources, batteries, and charge regulation.",
+    "description": "The AKI-E221 Solar Charge Controller Trainer introduces solar charging principles and the relationship between a photovoltaic source, a battery, and charge regulation. It supports learning about renewable-energy systems without implying a particular controller design or equipment configuration.\n\nController technology, battery chemistry, operating voltage, current rating, solar-panel capacity, protection features, and included components have not been provided. Refer to official product documentation to confirm the supported configuration and safe operating requirements.",
+    "features": ["Solar charging fundamentals", "Charge regulation concepts", "Battery charging education", "Renewable energy demonstrations", "Practical solar-energy learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E221"},{"label":"General — Product Type","value":"Solar charge controller trainer"},{"label":"General — Category","value":"EV & Renewable Energy"},{"label":"Controller — PWM or MPPT technology","value":"Not provided"},{"label":"Electrical — Operating voltage and current rating","value":"Not provided"},{"label":"Energy source — Solar panel capacity and configuration","value":"Not provided"},{"label":"Battery — Chemistry and supported capacity","value":"Not provided"},{"label":"Protection — Features and certifications","value":"Not provided"}],
+    "applications": ["Renewable energy laboratories", "Solar power education", "Battery charging demonstrations", "Electrical engineering practicals"],
+    "images": ["/products/aki-e221-solar-charge-controller-illustration.svg"],
+    "imageAlt": "Illustrative solar charge-controller training concept connecting a photovoltaic panel and battery; not a photograph of AKI-E221"
+  },
+  "AKI-E210": {
+    "shortDescription": "An educational unit for understanding electric vehicle battery fundamentals, battery characteristics, and energy storage concepts.",
+    "description": "The AKI-E210 Electric Vehicle Battery Study Unit introduces the role of batteries in electric vehicles, battery capacity and voltage concepts, and general battery-monitoring principles.\n\nBattery chemistry, cell count, voltage, capacity, battery-management system, charging method, and safety certification have not been provided. Do not open or modify live battery packs; consult official documentation for safe intended use.",
+    "features": ["EV battery fundamentals", "Energy storage concepts", "Battery characteristic studies", "Introduction to battery monitoring", "Practical electric mobility education"],
+    "specs": [{"label":"General — Model","value":"AKI-E210"},{"label":"General — Product Type","value":"Electric vehicle battery study unit"},{"label":"General — Category","value":"EV & Renewable Energy"},{"label":"Battery — Chemistry, cell count, voltage, and capacity","value":"Not provided"},{"label":"Monitoring — Battery-management system and charging method","value":"Not provided"},{"label":"Safety — Certifications and handling requirements","value":"Not provided"}],
+    "applications": ["EV training laboratories", "Battery technology education", "Electric mobility demonstrations", "Energy storage projects"],
+    "images": ["/products/aki-e210-ev-battery-study-illustration.svg"],
+    "imageAlt": "Illustrative electric vehicle battery study and monitoring concept; not a photograph of AKI-E210"
+  },
+  "AKI-E211": {
+    "shortDescription": "An educational training system for learning electric vehicle charging principles and charging-system components.",
+    "description": "The AKI-E211 Electric Vehicle Charging Trainer introduces the general charging process, charging-system components, and the roles of electrical protection and communication in EV charging. Product-specific capabilities are not assumed.\n\nAC or DC charging capability, connector type, charging power, voltage, communication protocol, and electrical safety certification have not been provided.",
+    "features": ["EV charging fundamentals", "Charging-system concepts", "Electrical protection education", "Introduction to charging interfaces", "Practical EV technology learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E211"},{"label":"General — Product Type","value":"Electric vehicle charging trainer"},{"label":"General — Category","value":"EV & Renewable Energy"},{"label":"Charging — AC/DC capability and connector type","value":"Not provided"},{"label":"Electrical — Voltage and charging power","value":"Not provided"},{"label":"Communication — Protocols and protection certification","value":"Not provided"}],
+    "applications": ["Electric vehicle training laboratories", "EV charging education", "Electrical engineering practicals", "Electric mobility demonstrations"],
+    "images": ["/products/aki-e211-ev-charging-trainer-illustration.svg"],
+    "imageAlt": "Illustrative electric vehicle charging trainer and interface concept; not a photograph of AKI-E211"
+  },
+  "AKI-E209": {
+    "shortDescription": "An educational training platform for understanding the principal components and operation of an electric vehicle powertrain.",
+    "description": "The AKI-E209 Electric Vehicle Powertrain Trainer introduces the relationship between traction, energy storage, power electronics, and the drivetrain in an electric vehicle. General EV concepts are distinguished from the components actually supplied with this trainer.\n\nA specific motor, inverter, battery pack, transmission, rated power, voltage, torque, and control software have not been provided.",
+    "features": ["EV powertrain fundamentals", "Electric traction concepts", "Introduction to power electronics", "Energy conversion and drivetrain learning", "Practical electric mobility education"],
+    "specs": [{"label":"General — Model","value":"AKI-E209"},{"label":"General — Product Type","value":"Electric vehicle powertrain trainer"},{"label":"General — Category","value":"EV & Renewable Energy"},{"label":"Drive — Motor, transmission, and torque","value":"Not provided"},{"label":"Power electronics — Inverter and ratings","value":"Not provided"},{"label":"Energy storage — Battery pack and voltage","value":"Not provided"},{"label":"Control — Software and operating requirements","value":"Not provided"}],
+    "applications": ["EV engineering laboratories", "Electric vehicle training", "Automotive technology education", "Powertrain demonstrations", "Student engineering projects"],
+    "images": ["/products/aki-e209-ev-powertrain-illustration.svg"],
+    "imageAlt": "Illustrative electric vehicle powertrain and energy-flow concept; not a photograph of AKI-E209"
+  },
+  "AKI-E223": {
+    "shortDescription": "An educational monitoring panel for learning about renewable energy systems and observing relevant energy-system measurements.",
+    "description": "The AKI-E223 Renewable Energy Monitoring Panel introduces how monitoring systems can be used to observe energy production and system parameters in renewable-energy applications. The energy source and measured parameters are not specified without confirmed product data.\n\nSolar or wind compatibility, grid connectivity, data logging, communication protocols, voltage, current, power ratings, and sensors have not been provided.",
+    "features": ["Renewable energy monitoring concepts", "Energy parameter observation", "Introduction to system monitoring", "Renewable-energy education", "Practical measurement demonstrations"],
+    "specs": [{"label":"General — Model","value":"AKI-E223"},{"label":"General — Product Type","value":"Renewable energy monitoring panel"},{"label":"General — Category","value":"EV & Renewable Energy"},{"label":"Energy source — Solar, wind, or other compatibility","value":"Not provided"},{"label":"Measurement — Parameters, sensors, and ratings","value":"Not provided"},{"label":"Monitoring — Data logging and communication","value":"Not provided"},{"label":"Integration — Grid connectivity","value":"Not provided"}],
+    "applications": ["Renewable energy laboratories", "Electrical engineering education", "Energy monitoring demonstrations", "Sustainable technology projects"],
+    "images": ["/products/aki-e223-renewable-energy-monitoring-illustration.svg"],
+    "imageAlt": "Illustrative renewable-energy monitoring panel concept; energy source and capabilities are not specified"
+  },
+  "AKI-E200": {
+    "shortDescription": "A laboratory power supply for educational and electronic testing applications requiring a regulated DC source.",
+    "description": "The AKI-E200 DC Regulated Laboratory Power Supply introduces the role of regulated DC supplies in providing a stable source for powering and testing electronic circuits. It can support learning about supply behavior in laboratory and prototyping contexts.\n\nOutput voltage, current and power ratings, ripple, regulation accuracy, and protection features have not been provided. Verify the actual electrical ratings before connecting a load.",
+    "features": ["Regulated DC supply concepts", "Laboratory circuit testing", "Electronic prototyping support", "Power supply fundamentals", "Practical electronics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E200"},{"label":"General — Product Type","value":"DC regulated laboratory power supply"},{"label":"General — Category","value":"Test & Measuring Instruments"},{"label":"Output — Voltage, current, and power ratings","value":"Not provided"},{"label":"Performance — Ripple and regulation accuracy","value":"Not provided"},{"label":"Protection — Available protection features","value":"Not provided"}],
+    "applications": ["Electronics laboratories", "Circuit testing", "Prototyping", "Electrical engineering practicals"],
+    "images": ["/products/aki-e200-regulated-power-supply-illustration.svg"],
+    "imageAlt": "Illustrative regulated DC laboratory power supply concept; not a photograph of AKI-E200"
+  },
+  "AKI-E203": {
+    "shortDescription": "A signal-generation instrument for producing electrical waveforms used in electronics testing and laboratory experiments.",
+    "description": "The AKI-E203 Digital Function Generator introduces how function generators provide electrical signals for testing circuits and studying waveform behavior.\n\nSupported waveforms, frequency and amplitude ranges, channel count, and modulation capabilities have not been provided. Consult official product documentation for verified instrument functions.",
+    "features": ["Signal generation concepts", "Waveform testing", "Electronics circuit evaluation", "Laboratory signal source", "Practical measurement education"],
+    "specs": [{"label":"General — Model","value":"AKI-E203"},{"label":"General — Product Type","value":"Digital function generator"},{"label":"General — Category","value":"Test & Measuring Instruments"},{"label":"Signal — Waveforms and channel count","value":"Not provided"},{"label":"Signal — Frequency and amplitude ranges","value":"Not provided"},{"label":"Signal — Modulation capabilities","value":"Not provided"}],
+    "applications": ["Electronics laboratories", "Circuit testing", "Waveform experiments", "Signal-analysis education"],
+    "images": ["/products/aki-e203-function-generator-illustration.svg"],
+    "imageAlt": "Illustrative digital function generator instrument concept; not a photograph of AKI-E203"
+  },
+  "AKI-E201": {
+    "shortDescription": "A dual-output laboratory supply intended for studying and powering electronic circuits requiring multiple DC supply outputs.",
+    "description": "The AKI-E201 Dual Output Tracking Supply introduces dual-output laboratory supplies and the general concept of tracking outputs for electronic circuit applications.\n\nIndependent or tracking modes, output voltage, current, polarity, isolation, and power ratings have not been provided. Verify the actual output configuration before use.",
+    "features": ["Dual-output supply concepts", "Laboratory circuit powering", "Electronics testing support", "Introduction to tracking supplies", "Practical circuit experiments"],
+    "specs": [{"label":"General — Model","value":"AKI-E201"},{"label":"General — Product Type","value":"Dual output tracking supply"},{"label":"General — Category","value":"Test & Measuring Instruments"},{"label":"Output — Voltage, current, and polarity","value":"Not provided"},{"label":"Operation — Independent or tracking modes","value":"Not provided"},{"label":"Electrical — Isolation and power ratings","value":"Not provided"}],
+    "applications": ["Analog electronics laboratories", "Circuit prototyping", "Electronic testing", "Educational experiments"],
+    "images": ["/products/aki-e201-dual-output-supply-illustration.svg"],
+    "imageAlt": "Illustrative dual-output tracking laboratory supply concept; not a photograph of AKI-E201"
+  },
+  "AKI-E205": {
+    "shortDescription": "A portable instrument category for examining electrical signals and helping learners understand signal characteristics.",
+    "description": "The AKI-E205 Portable Signal Analyzer introduces signal analysis and the importance of observing signal properties during electronic testing. Specific analysis functions are not claimed without verified product information.\n\nOscilloscope or spectrum analysis, FFT, protocol decoding, bandwidth, sampling rate, and input range have not been provided.",
+    "features": ["Signal-analysis fundamentals", "Portable measurement concepts", "Electronics troubleshooting education", "Signal observation and evaluation", "Laboratory and field-learning support"],
+    "specs": [{"label":"General — Model","value":"AKI-E205"},{"label":"General — Product Type","value":"Portable signal analyzer"},{"label":"General — Category","value":"Test & Measuring Instruments"},{"label":"Analysis — Supported functions","value":"Not provided"},{"label":"Signal — Bandwidth and sampling rate","value":"Not provided"},{"label":"Input — Channels, ranges, and interfaces","value":"Not provided"}],
+    "applications": ["Electronics testing", "Signal-analysis demonstrations", "Engineering laboratories", "Troubleshooting education"],
+    "images": ["/products/aki-e205-portable-signal-analyzer-illustration.svg"],
+    "imageAlt": "Illustrative portable electrical signal analyzer concept; not a photograph of AKI-E205"
+  },
+  "AKI-E202": {
+    "shortDescription": "A DC power supply category for laboratory applications involving adjustable or programmable electrical output.",
+    "description": "The AKI-E202 Programmable DC Supply introduces programmable supply concepts and how controlled output settings can support repeatable circuit testing.\n\nProgramming interfaces, remote-control protocols, output ranges, memory presets, accuracy, and protection functions have not been provided. Confirm capability and ratings from product documentation.",
+    "features": ["Programmable power-supply concepts", "Controlled DC output learning", "Circuit testing support", "Repeatable laboratory experiments", "Electronics education"],
+    "specs": [{"label":"General — Model","value":"AKI-E202"},{"label":"General — Product Type","value":"Programmable DC supply"},{"label":"General — Category","value":"Test & Measuring Instruments"},{"label":"Output — Voltage, current, and power ratings","value":"Not provided"},{"label":"Programming — Interfaces, protocols, and presets","value":"Not provided"},{"label":"Performance — Accuracy and protection functions","value":"Not provided"}],
+    "applications": ["Electronics laboratories", "Circuit validation", "Power electronics education", "Research and prototyping"],
+    "images": ["/products/aki-e202-programmable-dc-supply-illustration.svg"],
+    "imageAlt": "Illustrative programmable DC laboratory supply concept; not a photograph of AKI-E202"
+  },
+  "AKI-E204": {
+    "shortDescription": "A two-channel oscilloscope category for observing electrical signal waveforms and comparing signal behavior.",
+    "description": "The AKI-E204 Two Channel Digital Oscilloscope introduces waveform observation, time-domain measurements, and educational comparison of two signals.\n\nBandwidth, sample rate, memory depth, input impedance, voltage range, display resolution, and trigger features have not been provided. Refer to official product documentation for confirmed instrument specifications.",
+    "features": ["Two-channel signal observation concepts", "Waveform analysis", "Time-domain measurement education", "Circuit troubleshooting support", "Electronics laboratory learning"],
+    "specs": [{"label":"General — Model","value":"AKI-E204"},{"label":"General — Product Type","value":"Two channel digital oscilloscope"},{"label":"General — Category","value":"Test & Measuring Instruments"},{"label":"Signal — Bandwidth and sample rate","value":"Not provided"},{"label":"Acquisition — Memory depth and trigger features","value":"Not provided"},{"label":"Input — Impedance and voltage range","value":"Not provided"},{"label":"Display — Resolution","value":"Not provided"}],
+    "applications": ["Electronics laboratories", "Circuit debugging", "Signal comparison", "Waveform analysis", "Engineering practicals"],
+    "images": ["/products/aki-e204-digital-oscilloscope-illustration.svg"],
+    "imageAlt": "Illustrative two-channel digital oscilloscope concept; not a photograph of AKI-E204"
+  },
+  "AKI-E226": {
+    "name": "Collaborative Laboratory Project Bench",
+    "shortDescription": "A collaborative workspace concept designed to support practical engineering projects and teamwork in educational laboratories.",
+    "description": "The AKI-E226 Collaborative Laboratory Project Bench describes a shared workspace concept for group projects, equipment organization, and hands-on learning activities.\n\nDimensions, seating capacity, load capacity, built-in electrical outlets, storage, and included accessories have not been provided. Confirm the furniture configuration before planning a laboratory layout.",
+    "features": ["Collaborative project workspace", "Practical learning support", "Team-based project activities", "Equipment organization", "Flexible laboratory use"],
+    "specs": [{"label":"General — Model","value":"AKI-E226"},{"label":"General — Product Type","value":"Collaborative laboratory project bench"},{"label":"General — Category","value":"Lab Furniture & Workbenches"},{"label":"Furniture — Dimensions and seating capacity","value":"Not provided"},{"label":"Furniture — Load capacity and storage","value":"Not provided"},{"label":"Electrical — Built-in outlets and accessories","value":"Not provided"}],
+    "applications": ["Engineering project laboratories", "STEM learning spaces", "Collaborative workshops", "Technical education"],
+    "images": ["/products/aki-e226-collaborative-project-bench-illustration.svg"],
+    "imageAlt": "Illustrative collaborative laboratory project bench concept; not a photograph of AKI-E226"
+  },
+  "AKI-E207": {
+    "shortDescription": "A laboratory workbench designed for electrical training and supervised hands-on learning.",
+    "description": "The AKI-E207 Electrical Training Workbench introduces the role of a dedicated workspace in organizing electrical practicals, equipment, and learning activities.\n\nDimensions, material, load capacity, power sockets, protection devices, drawers, and included training modules have not been provided. Verify these details before specifying the bench for a laboratory.",
+    "features": ["Electrical training workspace", "Laboratory equipment organization", "Practical learning support", "Training-focused work surface", "Engineering education environment"],
+    "specs": [{"label":"General — Model","value":"AKI-E207"},{"label":"General — Product Type","value":"Electrical training workbench"},{"label":"General — Category","value":"Lab Furniture & Workbenches"},{"label":"Furniture — Dimensions, material, and load capacity","value":"Not provided"},{"label":"Electrical — Outlets and protection devices","value":"Not provided"},{"label":"Storage — Drawers and included training modules","value":"Not provided"}],
+    "applications": ["Electrical laboratories", "Technical training centers", "Engineering colleges", "Vocational education"],
+    "images": ["/products/aki-e207-electrical-training-workbench-illustration.svg"],
+    "imageAlt": "Illustrative electrical training workbench concept; not a photograph of AKI-E207"
+  },
+  "AKI-E206": {
+    "shortDescription": "An electronics workbench category intended for electronics assembly and handling environments where electrostatic discharge precautions may be required.",
+    "description": "The AKI-E206 ESD Electronics Workbench introduces electrostatic discharge control in electronics handling and the role of a properly designed ESD workstation.\n\nCertified ESD performance, grounding resistance, antistatic material specifications, wrist straps, mats, and included accessories have not been verified. Do not treat this product as an ESD-certified workstation without product documentation.",
+    "features": ["Electronics handling workspace", "ESD-awareness and control concepts", "Component organization", "Electronics assembly support", "Practical laboratory use"],
+    "specs": [{"label":"General — Model","value":"AKI-E206"},{"label":"General — Product Type","value":"ESD electronics workbench"},{"label":"General — Category","value":"Lab Furniture & Workbenches"},{"label":"ESD — Performance and certification","value":"Not provided"},{"label":"ESD — Grounding resistance and surface material","value":"Not provided"},{"label":"Accessories — Mats, straps, and included items","value":"Not provided"},{"label":"Furniture — Dimensions and load capacity","value":"Not provided"}],
+    "applications": ["Electronics laboratories", "Component assembly", "Technical training", "Electronics repair and servicing"],
+    "images": ["/products/aki-e206-esd-electronics-workbench-illustration.svg"],
+    "imageAlt": "Illustrative electronics ESD-awareness workbench concept; ESD performance is not specified"
+  },
+  "AKI-E225": {
+    "shortDescription": "A mobile workspace concept for electronics assembly, practical projects, and flexible laboratory activities.",
+    "description": "The AKI-E225 Mobile Electronics Assembly Bench introduces a flexible workspace concept for equipment access and electronics project activities in laboratories and workshops.\n\nWheel-locking mechanisms, dimensions, load capacity, storage, ESD certification, and electrical outlets have not been provided. Verify the actual configuration before use.",
+    "features": ["Mobile assembly workspace", "Electronics project support", "Flexible laboratory arrangement", "Equipment organization", "Hands-on learning environment"],
+    "specs": [{"label":"General — Model","value":"AKI-E225"},{"label":"General — Product Type","value":"Mobile electronics assembly bench"},{"label":"General — Category","value":"Lab Furniture & Workbenches"},{"label":"Furniture — Dimensions and load capacity","value":"Not provided"},{"label":"Mobility — Wheels and locking mechanisms","value":"Not provided"},{"label":"Features — Storage, ESD, and electrical outlets","value":"Not provided"}],
+    "applications": ["Electronics assembly laboratories", "Prototyping spaces", "Technical workshops", "Educational project rooms"],
+    "images": ["/products/aki-e225-mobile-electronics-assembly-bench-illustration.svg"],
+    "imageAlt": "Illustrative mobile electronics assembly bench concept; not a photograph of AKI-E225"
+  },
+  "AKI-E208": {
+    "shortDescription": "A flexible project workspace intended to support STEM activities, collaborative learning, and hands-on technical projects.",
+    "description": "The AKI-E208 Mobile STEM Project Bench introduces a flexible work area for organizing project materials and supporting practical learning across educational activities.\n\nBuilt-in electronics, storage configuration, dimensions, mobility features, and load rating have not been provided. Confirm these details in official product documentation.",
+    "features": ["Flexible STEM workspace", "Hands-on project support", "Collaborative learning", "Equipment organization", "Adaptable educational use"],
+    "specs": [{"label":"General — Model","value":"AKI-E208"},{"label":"General — Product Type","value":"Mobile STEM project bench"},{"label":"General — Category","value":"Lab Furniture & Workbenches"},{"label":"Furniture — Dimensions and load rating","value":"Not provided"},{"label":"Mobility — Mobility features and configuration","value":"Not provided"},{"label":"Features — Storage and built-in electronics","value":"Not provided"}],
+    "applications": ["STEM laboratories", "School innovation spaces", "Engineering project rooms", "Makerspaces"],
+    "images": ["/products/aki-e208-mobile-stem-project-bench-illustration.svg"],
+    "imageAlt": "Illustrative mobile STEM project bench concept; not a photograph of AKI-E208"
+  },
+  "AKI-E224": {
+    "shortDescription": "A modular technical workspace concept for organizing practical work and adapting laboratory layouts to different training needs.",
+    "description": "The AKI-E224 Modular Technical Workbench introduces modular workspace concepts for technical education, equipment organization, and flexible laboratory planning.\n\nModular dimensions, compatible accessories, materials, load capacity, power connections, and storage options have not been provided. Refer to product documentation for the available configuration.",
+    "features": ["Modular workspace concept", "Technical training support", "Flexible laboratory layout", "Equipment organization", "Practical workshop use"],
+    "specs": [{"label":"General — Model","value":"AKI-E224"},{"label":"General — Product Type","value":"Modular technical workbench"},{"label":"General — Category","value":"Lab Furniture & Workbenches"},{"label":"Furniture — Module dimensions and material","value":"Not provided"},{"label":"Furniture — Load capacity and storage","value":"Not provided"},{"label":"Integration — Compatible accessories and power connections","value":"Not provided"}],
+    "applications": ["Technical laboratories", "Engineering workshops", "Electronics training", "Vocational education"],
+    "images": ["/products/aki-e224-modular-technical-workbench-illustration.svg"],
+    "imageAlt": "Illustrative modular technical workbench concept; not a photograph of AKI-E224"
+  }
+}
