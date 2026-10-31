@@ -1,6 +1,10 @@
-# Root-level local secrets
+# Local environment variables and secrets
 /.env
 /.env.*
+**/.env
+**/.env.*
+**/.env.local
+**/.env.*.local
 
 # Generated project dependencies and build output
 **/node_modules/

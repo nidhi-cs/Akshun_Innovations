@@ -157,9 +157,37 @@ function validateForm(values: FormValues): FormErrors {
   return errors;
 }
 
-async function submitEnquiry(): Promise<void> {
-  // Replace this placeholder with the verified enquiry API endpoint before enabling delivery.
-  throw new Error("Enquiry submission is not configured yet. Your message has not been sent.");
+async function submitEnquiry(payload: FormValues): Promise<void> {
+  const apiBaseUrl = process.env.NEXT_PUBLIC_API_URL ?? "http://127.0.0.1:8000";
+  const response = await fetch(`${apiBaseUrl}/api/v1/contact`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      fullName: payload.fullName,
+      email: payload.email,
+      company: payload.company,
+      phone: payload.phone,
+      enquiryType: payload.enquiryType,
+      productOrIndustry: payload.productOrIndustry,
+      message: payload.message,
+      consent: payload.consent,
+    }),
+  });
+
+  if (!response.ok) {
+    let message = "We could not submit your enquiry. Your message has not been sent.";
+
+    try {
+      const data = (await response.json()) as { detail?: string };
+      if (data.detail) {
+        message = data.detail;
+      }
+    } catch {
+      // Ignore invalid JSON payloads and use the fallback message.
+    }
+
+    throw new Error(message);
+  }
 }
 
 export function ContactUs() {
@@ -189,7 +217,7 @@ export function ContactUs() {
 
     setIsSubmitting(true);
     try {
-      await submitEnquiry();
+      await submitEnquiry(values);
       setFormMessage({ type: "success", text: "Your enquiry has been sent. Our team will be in touch." });
       setValues(initialValues);
       setErrors({});

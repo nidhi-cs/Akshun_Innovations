@@ -210,9 +210,49 @@ function validate(values: QuoteValues): QuoteErrors {
   return errors;
 }
 
-async function submitQuoteRequest(): Promise<void> {
-  // Replace this placeholder with the verified RFQ API endpoint before enabling delivery.
-  throw new Error("Quote submission is not configured yet. Your request has not been sent.");
+async function submitQuoteRequest(payload: QuoteValues): Promise<void> {
+  const apiBaseUrl = process.env.NEXT_PUBLIC_API_URL ?? "http://127.0.0.1:8000";
+  const response = await fetch(`${apiBaseUrl}/api/v1/quote-requests`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      fullName: payload.fullName,
+      email: payload.email,
+      company: payload.company,
+      phone: payload.phone,
+      jobTitle: payload.jobTitle,
+      country: payload.country,
+      productCategory: payload.productCategory,
+      productName: payload.productName,
+      quantity: payload.quantity,
+      productModel: payload.productModel,
+      purchaseType: payload.purchaseType,
+      currency: payload.currency,
+      budget: payload.budget,
+      timeline: payload.timeline,
+      industry: payload.industry,
+      application: payload.application,
+      technicalRequirements: payload.technicalRequirements,
+      connectivity: payload.connectivity,
+      comments: payload.comments,
+      consent: payload.consent,
+    }),
+  });
+
+  if (!response.ok) {
+    let message = "Your quotation request could not be submitted.";
+
+    try {
+      const data = (await response.json()) as { detail?: string };
+      if (data.detail) {
+        message = data.detail;
+      }
+    } catch {
+      // Ignore invalid JSON payloads and use the fallback message.
+    }
+
+    throw new Error(message);
+  }
 }
 
 export function RequestQuote({
@@ -251,7 +291,7 @@ export function RequestQuote({
 
     setIsSubmitting(true);
     try {
-      await submitQuoteRequest();
+      await submitQuoteRequest(values);
       setFormMessage({ type: "success", text: "Your quotation request has been received." });
       setValues(initialValues);
       setErrors({});
